@@ -1,7 +1,7 @@
 # Attended Kickoff & Prediction Guard Training (or recording)
 
 ## Task: Video
-1. Display or print out the practice quiz [kickoff1_quiz.md]([https://github.com/uaz-data4good/training/blob/32bfb855ff1cb185d2931ba975923ee463e34752/pq/kickoff_quiz](https://github.com/uaz-data4good/lessons/blob/ecfc69ef470d293a5502709d6b3ff14ea0d1e7a3/kickoff1/kickoff1_quiz.md))
+1. Display or print out the practice quiz [kickoff1_quiz.md](https://github.com/uaz-data4good/lessons/blob/ecfc69ef470d293a5502709d6b3ff14ea0d1e7a3/kickoff1/kickoff1_quiz.md)
 2. Watch video at: https://www.youtube.com/watch?v=Ff6buNO2tfQ.
 3. Fill in the practice quiz while watching the video. 
 
