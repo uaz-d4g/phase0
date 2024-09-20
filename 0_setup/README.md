@@ -1,6 +1,6 @@
 # Infrastructure Setup 
 
-## Due Date: Friday, September 27, 2024 before 11:59 pm EDT
+## Due Date: on or about Friday, September 27, 2024
 
 ## Tasks: Setup your infrastructure for competition
 1. [Join GitHub Education](https://education.github.com/discount_requests/application) [[help](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student)].
