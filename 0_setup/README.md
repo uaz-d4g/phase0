@@ -3,9 +3,9 @@
 ## Due Date: Friday, September 27, 2024 before 11:59 pm EDT
 
 ## Tasks: Setup your infrastructure for competition
-1. [Join GitHub Education](https://education.github.com/discount_requests/application) [Get help](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student).
-2. Activate GitHub Copilot for free after you are approved for GitHub Education [Get help](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer).
-3. Install GitHub Copilot extension in your environment (recommended) [Get help](https://docs.github.com/en/copilot/managing-copilot/configure-personal-settings/installing-the-github-copilot-extension-in-your-environment).
+1. [Join GitHub Education](https://education.github.com/discount_requests/application) [[help](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student)].
+2. Activate GitHub Copilot for free after you are approved for GitHub Education [[help](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer)].
+3. Install GitHub Copilot extension in your environment (recommended) [[help](https://docs.github.com/en/copilot/managing-copilot/configure-personal-settings/installing-the-github-copilot-extension-in-your-environment)].
 4. Bookmark the following resources for future reading
   - [D4G home page](https://business.purdue.edu/events/data4good/home.php)
   - [PG Quick Start](https://docs.predictionguard.com/guides-and-concepts/getting-started/quick-start)
