@@ -6,6 +6,7 @@ Links to live Zoom meetings, recorded videos, and quizzes are in their respetive
 
 | # | Requirement | Indv Points | Team Points* | Percent | Due Date |
 |:-:|:-------------|-----------:|-----------:|---------:|:-----:|
+| 0 | Infrasturcture Setup | 0 | 0 | 0% | 9/27/2024 |
 | 1 | Kickoff Part 1 | 150 | 450 | 5% | 09/27/2024 |
 | 2 | Kickoff Part 2 | 150 | 450 | 5% | 09/27/2024 |
 | 3 | MS AI-900 Training | 600 | 1800 | 18% | TBD |
