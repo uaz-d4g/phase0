@@ -1,10 +1,10 @@
-# Attended Kickoff & Prediction Guard Training (or recording)
+# Attended Kickoff & Prediction Guard Training - Part 1 (or recording)
 
 ## Due Date: Friday, September 27, 2024 before 11:59 pm EDT
 
 ## Task: Video
 1. Display or print out the practice quiz [kickoff1_quiz.md](https://github.com/uaz-data4good/lessons/blob/ecfc69ef470d293a5502709d6b3ff14ea0d1e7a3/kickoff1/kickoff1_quiz.md)
-2. Watch video at: https://www.youtube.com/watch?v=Ff6buNO2tfQ.
+2. Watch video: [Data 4 Good Kickoff and LLM Training (Part 1)](https://www.youtube.com/watch?v=Ff6buNO2tfQ).
 3. Fill in the practice quiz and take notes while watching the video. Record timestamp of answers.
 
 ## Deliverable: Quiz 
