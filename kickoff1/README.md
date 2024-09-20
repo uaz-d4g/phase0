@@ -6,16 +6,19 @@
 3. Fill in the practice quiz while watching the video. 
 
 ## Deliverable: Quiz 
-1. Self-grade your practice quiz with the  practice quiz answer key [kickoff1_quiz.md]([TBD](https://github.com/uaz-data4good/lessons/blob/ecfc69ef470d293a5502709d6b3ff14ea0d1e7a3/kickoff1/kickoff1_quiz_key.md))
+1. Compare your answers with the [kickoff1_quiz_key.md]([TBD](https://github.com/uaz-data4good/lessons/blob/ecfc69ef470d293a5502709d6b3ff14ea0d1e7a3/kickoff1/kickoff1_quiz_key.md). Double check any discrepancies. Go with your best guess. The 'key' many not be correct. 
 2. Take the actual quiz at [https://bit.ly/data4goodkickoff](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbndnZkQwQUlaNTVJR051c25FVTVHQXlhOFZ4QXxBQ3Jtc0ttLTlMN21YZkxra21kb0ZGLTVnYzhUcEtNaVAxdUdJN2thSV9mYWRyWkFESXplTzBMalI0M184NjMxTVhpRUp2d2JiVEN2XzNNV2xObmxhR2MwaHI4cU5VM2pReWtYME9wWTRqWUp4TDdJaUM3TTZXMA&q=https%3A%2F%2Fbit.ly%2Fdata4goodkickoff&v=Ff6buNO2tfQ)
 
 ## Reporing
 Edit this file and put a 'x' by your name 
 
 ### Team 1: HLT Cats
-- [ ] Ajeet
-- [ ] Julian
-- [ ] Makim
-- [ ] Mike
+- [ ] Ajeet. Completed on {date}
+- [ ] Julian. Completed on {date}
+- [ ] Makim. Completed on {date}
+- [x] Mike. Completed on 9/20/2024
 
-### Team 2: 
+### Team 2:  Data Cats
+- [ ] Bruece. Completed on {date}
+- [ ] Kathleen. Completed on {date}
+- [ ] Moises. Completed on {date}
