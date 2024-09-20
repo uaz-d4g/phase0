@@ -1,9 +1,7 @@
 # Phase 0 - Training, Quizzes, and Certification
-Teams earn points collectively and individually by participating in the available trainings, practice exams and certifications.
+Teams earn points collectively and individually by participating in the available trainings, practice exams and certifications. Individuals who do not submit a training deliverable score a zero. This zero will really hurt a team's points.
 
-Individuals who do not submit a training deliverable score a zero. This zero will really hurt a team's points.
-
-Links to live Zoom meetings, recorded videos, and quizzes are in their respetive folders in this repository.
+Links to live Zoom meetings, recorded videos, and quizzes are in their respetive folders in this repository. Additional traning materials are in the [D4G Playlist](https://learning.oreilly.com/playlists/cd21a7c9-e5a3-4e71-80c3-c9d10a0457ee) on O'Reilly Media. Sign in with your UA email address and SSO.
 
 
 | # | Requirement | Indv Points | Team Points* | Percent | Due Date |
