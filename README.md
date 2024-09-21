@@ -1,6 +1,8 @@
 # Phase 0 - Training, Quizzes, and Certification
 
-Phase 0 is the first and **most critical phase** of the competition. It accounts for **100% of individual points (2,333)** and **70% of team points (6,999)**. Moreover, it provides the essential training and practice needed to excel in the applied phases of the competition. Each team member must complete all Phase 0 deliverables and pass the **Microsoft AI-900 certification** for the team to qualify for the regional competition. To win regionals and advance to the national competition, participants will likely need to achieve **90% or higher** on all deliverables.
+Phase 0 is the first and **most critical phase** of the competition. It accounts for **100% of individual points (2,333)** and **70% of team points (6,999)**. Moreover, it provides the essential training and practice needed to excel in the applied phases of the competition.
+
+Each team member must complete all Phase 0 deliverables and pass the **Microsoft AI-900 certification** for the team to qualify for the regional competition. To win regionals and advance to the national competition, participants will likely need to achieve **90% or higher** on all deliverables.
 
 D4G competition weeks run from **Saturday to Friday**, with deliverables typically due on **Fridays by 8:59 pm AzT (11:59 pm EDT)**. It's highly recommended that team members start working on the week's tasks **the weekend prior** and aim to submit at least **24 hours before the deadline** to avoid last-minute issues. If you have questions or need assistance, reach out to your teammates **early** to ensure success.
 
