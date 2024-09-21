@@ -1,4 +1,4 @@
-# Infrastructure Setup 
+# Infrastructure Setup
 
 ## Due Date: on or about Friday, September 27, 2024
 
@@ -17,7 +17,7 @@
 ## Deliverables: None
 
 ## Reporting
-Edit this file and put a 'x' by your name and date completed. 
+Edit this file and put a 'x' by your name and date completed.
 
 ### Team 1: HLT Cats
 - [ ] Ajeet. Completed on {date}
@@ -26,7 +26,7 @@ Edit this file and put a 'x' by your name and date completed.
 - [x] Mike. Completed on 9/20/2024
 
 ### Team 2:  Data Cats
-- [ ] Bruece. Completed on {date}
+- [ ] Bruce. Completed on {date}
 - [ ] Kathleen. Completed on {date}
 - [ ] Moises. Completed on {date}
 
