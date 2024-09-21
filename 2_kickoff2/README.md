@@ -8,8 +8,8 @@
 3. Fill in the practice quiz and take notes while watching the video. Record timestamp of answers.
 
 ## Deliverable: Submit Quiz
-1. Compare your answers with the [kickoff2_quiz_key.md](https://github.com/uaz-data4good/lessons/blob/dc9839fdc76bcdb910a100ab225c0cae4bff5c4a/kickoff2/kickoff2_quiz_key.md). Double check any discrepancies. Go with the answer you think is best. The 'key' many not be correct.
-2. Take the actual quiz at [https://bit.ly/data4goodRAG](https://forms.office.com/pages/responsepage.aspx?id=Ob0wQVN8nEGx5YdY1tY_IXdEvX-2m_JNoCNdHTzSj_NUQVlSNDdGTEJET0RCM1BVRzZWVERLRFZBTS4u&route=shorturl)
+1. Compare your answers with the [kickoff2_quiz_key.md](https://github.com/uaz-data4good/lessons/blob/dc9839fdc76bcdb910a100ab225c0cae4bff5c4a/kickoff2/kickoff2_quiz_key.md). Double check any discrepancies. The 'key' many not be correct.Go with the answer you think is best.
+2. Take the actual quiz at [https://bit.ly/data4goodRAG](https://forms.office.com/pages/responsepage.aspx?id=Ob0wQVN8nEGx5YdY1tY_IXdEvX-2m_JNoCNdHTzSj_NUQVlSNDdGTEJET0RCM1BVRzZWVERLRFZBTS4u&route=shorturl) before the due date.
 
 ## Reporting
 Edit this file and put a 'x' by your name and date completed.
