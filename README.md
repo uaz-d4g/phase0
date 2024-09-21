@@ -8,7 +8,7 @@ Links to live Zoom meetings, recorded videos, and quizzes are located in their r
 
 ## Table of Requirements and Deliverables
 | # | Due Date | Requirement: Deliverable | Individual Points | Team Points* | Percent of Total |
-|:-:|:-------------|-----------:|-----------:|---------:|:-----:|
+|:-:|:-------------:|:-----------|-----------:|---------:|-----:|
 | 0 | 09/27/2024 | [Infrastructure Setup: None](https://github.com/uaz-d4g/phase0/tree/0aee962febda73cd3d567092a8223ddde27fe2d6/0_setup) | 0 | 0 | 0% |
 | 1 | 09/27/2024 | [Kickoff Part 1: Quiz](https://github.com/uaz-d4g/phase0/tree/0aee962febda73cd3d567092a8223ddde27fe2d6/1_kickoff1) | 150 | 450 | 5% |
 | 2 | 09/27/2024 | [Kickoff Part 2: Quiz](https://github.com/uaz-d4g/phase0/tree/0aee962febda73cd3d567092a8223ddde27fe2d6/2_kickoff2) | 150 | 450 | 5% |
