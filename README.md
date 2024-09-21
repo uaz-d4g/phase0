@@ -9,10 +9,10 @@ Links to live Zoom meetings, recorded videos, and quizzes are in their respectiv
 | 0 | [Infrastructure Setup](https://github.com/uaz-d4g/phase0/tree/0aee962febda73cd3d567092a8223ddde27fe2d6/0_setup) | 0 | 0 | 0% | 9/27/2024 |
 | 1 | [Kickoff Part 1](https://github.com/uaz-d4g/phase0/tree/0aee962febda73cd3d567092a8223ddde27fe2d6/1_kickoff1) | 150 | 450 | 5% | 09/27/2024 |
 | 2 | [Kickoff Part 2](https://github.com/uaz-d4g/phase0/tree/0aee962febda73cd3d567092a8223ddde27fe2d6/2_kickoff2) | 150 | 450 | 5% | 09/27/2024 |
-| 3 | MS AI-900 Training | 600 | 1800 | 18% | TBD |
-| 4 | INFORMS CAP JTA | 150 | 450 | 5% | TBD |
-| 5 | AI Ethics | 150 | 450 | 5% | TBD |
-| 6 | MS AI-900 Practice | 133 | 399 | 4% | TBD |
-| 7 | MS AI-900 Certification | 1000 | 3000 | 30% | TBD |
+| 3 | [MS AI-900 Training](https://github.com/uaz-d4g/phase0/tree/5cf10518ce36d0471f0b8be889d5c88c4d4f53bb/3_azure_ai1) | 600 | 1800 | 18% | TBD |
+| 4 | [INFORMS CAP JTA](https://github.com/uaz-d4g/phase0/tree/5cf10518ce36d0471f0b8be889d5c88c4d4f53bb/4_informs_cap) | 150 | 450 | 5% | TBD |
+| 5 | [AI Ethics](https://github.com/uaz-d4g/phase0/tree/5cf10518ce36d0471f0b8be889d5c88c4d4f53bb/5_ai_ethics) | 150 | 450 | 5% | TBD |
+| 6 | [MS AI-900 Practice Assessment](https://github.com/uaz-d4g/phase0/tree/5cf10518ce36d0471f0b8be889d5c88c4d4f53bb/6_azure_ai2) | 133 | 399 | 4% | TBD |
+| 7 | [MS AI-900 Certification](https://github.com/uaz-d4g/phase0/tree/5cf10518ce36d0471f0b8be889d5c88c4d4f53bb/7_azure_ai3) | 1000 | 3000 | 30% | TBD |
 
 *Average scores used among team of 3-4 people per team
