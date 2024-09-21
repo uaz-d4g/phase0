@@ -8,7 +8,7 @@
 3. Fill in the practice quiz and take notes while watching the video. Record video timestamp of answers.
 
 ## Deliverable: Submit Quiz
-1. Make sure you can support your answer from the video content before submitting your quiz. Video transcrpts are avaialable on the video's YouTube page.
+1. Make sure you can support your answer from the video content before submitting your quiz. Video transcripts are available on the video's YouTube page.
 2. Take the actual quiz at [https://bit.ly/data4goodRAG](https://forms.office.com/pages/responsepage.aspx?id=Ob0wQVN8nEGx5YdY1tY_IXdEvX-2m_JNoCNdHTzSj_NUQVlSNDdGTEJET0RCM1BVRzZWVERLRFZBTS4u&route=shorturl) before the due date.
 
 ## Reporting
