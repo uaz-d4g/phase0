@@ -8,7 +8,7 @@
 3. Fill in the practice quiz and take notes while watching the video. Record video timestamp of answers.
 
 ## Deliverable: Submit Quiz
-1. Compare your answers with the [kickoff2_quiz_key.md](https://github.com/uaz-data4good/lessons/blob/dc9839fdc76bcdb910a100ab225c0cae4bff5c4a/kickoff2/kickoff2_quiz_key.md). Double check any discrepancies. The 'key' many not be correct. Go with the answer you think is best.
+1. Make sure you can support your answer from the video content before submitting your quiz. Video transcrpts are avaialable on the video's YouTube page.
 2. Take the actual quiz at [https://bit.ly/data4goodRAG](https://forms.office.com/pages/responsepage.aspx?id=Ob0wQVN8nEGx5YdY1tY_IXdEvX-2m_JNoCNdHTzSj_NUQVlSNDdGTEJET0RCM1BVRzZWVERLRFZBTS4u&route=shorturl) before the due date.
 
 ## Reporting
