@@ -6,7 +6,7 @@
 1. [Join GitHub Education](https://education.github.com/discount_requests/application) [[help](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student)].
 1. Activate GitHub Copilot for free after you are approved for GitHub Education [[help](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer)].
 1. Install GitHub Copilot extension in your environment (recommended) [[help](https://docs.github.com/en/copilot/managing-copilot/configure-personal-settings/installing-the-github-copilot-extension-in-your-environment)].
-1. Create a Kaggle account using [Register with Email](https://www.kaggle.com/account/login?phase=startRegisterTab&returnUrl=%2F) and use your UA email address
+1. Create a Kaggle account [Register with Email](https://www.kaggle.com/account/login?phase=startRegisterTab&returnUrl=%2F) your UA email address. Update your profile with a picture so we stand out.
 1. Join the D4G Competition on Kaggle [[here](https://www.kaggle.com/t/f7fccc44624e4ac383ae15b858a3f157)]
 1. On the D4G Competition page, click on the `Teams` tab and search for your team or send your team leader your Kaggle user name.
 1. Bookmark the following resources for future reading
