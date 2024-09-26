@@ -15,12 +15,12 @@
 Edit this file and put a 'x' by your name and date completed.
 
 ### Team 1: HLT Cats
-- [ ] Ajeet. Completed on {date}
-- [ ] Julian. Completed on {date}
+- [x] Ajeet. Completed on 9/23/2024
+- [x] Julian. Completed on 9/24/2024
 - [ ] Makim. Completed on {date}
 - [x] Mike. Completed on 9/20/2024
 
 ### Team 2: Data Cats
 - [ ] Bruce. Completed on {date}
 - [ ] Kathleen. Completed on {date}
-- [ ] Moises. Completed on {date}
+- [x] Moises. Completed on 09/21/2024
