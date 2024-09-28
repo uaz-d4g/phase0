@@ -29,7 +29,7 @@ Edit this file and put a 'x' by your name and date completed.
 - [x] Mike. Completed on 9/20/2024
 
 ### Team 2:  Data Cats
-- [ ] Bruce. Completed on {date}
+- [x] Bruce. Completed on {date}
 - [ ] Kathleen. Completed on {date}
 - [x] Moises. Completed on 9/21/2024
 
