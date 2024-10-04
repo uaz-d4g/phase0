@@ -16,7 +16,7 @@
 Edit this file and put a 'x' by your name and date completed.
 
 ### Team 1: HLT Cats
-- [ ] Ajeet. Completed on {date}
+- [x] Ajeet. Completed on 9/28/2024
 - [ ] Julian. Completed on {date}
 - [ ] Makim. Completed on {date}
 - [x] Mike. Completed on 9/27/2024
