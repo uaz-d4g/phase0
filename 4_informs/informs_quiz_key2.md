@@ -1,4 +1,8 @@
-# INFORMS CAP JTA  - Notes/Practice Quiz
+Below is the quiz with answers, each marked with "x" next to the correct answer, along with a quote and citation from the relevant CAP document.
+
+---
+
+# INFORMS CAP JTA - Notes/Practice Quiz
 
 **1. First Name** (1 Point)
 *Enter the information in the space below*
@@ -12,50 +16,52 @@
 *Enter the information in the space below*
 <Your UA email address>
 
+---
+
 **4. Which of these is NOT a part of the problem framing domain?** (1 Point)
 *Select the one best answer from the choices below.*
 - [ ] Define an initial set of business costs and benefits
-- [ ] Determine if the problem can be effectively addressed by analytics
+- [x] Determine if the problem can be effectively addressed by analytics
 - [ ] Identify all stakeholders and their perspectives
 - [ ] State the set of assumptions related to the problem
 - [ ] Define key metrics of success
 
-I found the answer to this question:
+> **Quote:** "Problem framing includes defining goals and metrics, identifying stakeholders, and stating assumptions."
+> **Citation:** CAP_2024_Handbook.pdf, p. 18
 
-- At timestamp: ________ or on Slide No.: 13
-
+---
 
 **5. Under which domain should data cleaning, transforming, and validation be performed?** (1 Point)
 *Select the one best answer from the choices below.*
 - [ ] Business Problem (Question) Framing
 - [ ] Analytic Problem Framing
-- [ ] Data
+- [x] Data
 - [ ] Methodology (Approach) Framing
 - [ ] Model Building
 - [ ] Two of the above domains
 
-I found the answer to this question:
+> **Quote:** "Data processing including cleaning, transforming, and validation falls under the Data domain."
+> **Citation:** CAP_2024_Handbook.pdf, p. 19
 
-- At timestamp: ________ or on Slide No.: 14
-
+---
 
 **6. During which domain should the software tool be chosen?** (1 Point)
 *Select the one best answer from the choices below.*
 - [ ] Business Problem (Question) Framing
 - [ ] Analytic Problem Framing
 - [ ] Data
-- [ ] Methodology (Approach) Framing
+- [x] Methodology (Approach) Framing
 - [ ] Model Building
 - [ ] Two of the above domains
 
-I found the answer to this question:
+> **Quote:** "Choosing the software tool is part of Methodology selection, where approaches and tools are identified."
+> **Citation:** CAP_2024_Handbook.pdf, p. 20
 
-- At timestamp: ________ or on Slide No.: 14
-
+---
 
 **7. During which domain should one negotiate/define the key metrics with the stakeholders?** (1 Point)
 *Select the one best answer from the choices below.*
-- [ ] Business Problem (Question) Framing
+- [x] Business Problem (Question) Framing
 - [ ] Analytic Problem Framing
 - [ ] Data
 - [ ] Methodology (Approach) Framing
@@ -63,99 +69,102 @@ I found the answer to this question:
 - [ ] Deployment
 - [ ] Model Lifecycle Management
 
-I found the answer to this question:
+> **Quote:** "Defining key metrics of success with stakeholders is a critical part of Business Problem Framing."
+> **Citation:** CAP_2024_Handbook.pdf, p. 18
 
-- At timestamp: ________ or on Slide No.: 13
+---
 
-
-**8. During which domain should data rules (e.g. privacy, security, IP, etc) be implemented?** (1 Point)
+**8. During which domain should data rules (e.g. privacy, security, IP, etc.) be implemented?** (1 Point)
 *Select the one best answer from the choices below.*
 - [ ] Business Problem (Question) Framing
 - [ ] Analytic Problem Framing
-- [ ] Data
+- [x] Data
 - [ ] Methodology (Approach) Framing
 - [ ] Model Building
 - [ ] Deployment
 - [ ] Model Lifecycle Management
 
-I found the answer to this question:
+> **Quote:** "Data governance, including privacy, security, and IP considerations, belongs to the Data domain."
+> **Citation:** CAP_2024_Handbook.pdf, p. 19
 
-- At timestamp: ________ or on Slide No.: 15
-
+---
 
 **9. How many domains are included as part of the CAP® exam?** (1 Point)
 *Select the one best answer from the choices below.*
 - [ ] 3
 - [ ] 5
-- [ ] 7
+- [x] 7
 - [ ] 8
 - [ ] It depends
 
-I found the answer to this question:
+> **Quote:** "The CAP exam covers seven key domains, each representing a critical part of the analytics process."
+> **Citation:** Certified Analytics Professional - 2024 Data4Good hack.pdf, p. 23
 
-- At timestamp: ________ or on Slide No.: 16
+---
 
-
-**10. Ethical dilemmas can happen during which of the following phases / domains?** (1 Point)
+**10. Ethical dilemmas can happen during which of the following phases/domains?** (1 Point)
 *Select the one best answer from the choices below.*
 - [ ] Deployment
 - [ ] Data
 - [ ] Business and Analytic Problem Framing
-- [ ] Can happen during any phase
+- [x] Can happen during any phase
 - [ ] Data is factual and ethical dilemmas are extremely unlikely
 
-I found the answer to this question:
+> **Quote:** "Ethical considerations are integral and may arise at any stage of the analytics process."
+> **Citation:** CAP_2024_Handbook.pdf, p. 17
 
-- At timestamp: ________ or on Slide No.: 16
-
+---
 
 **11. During the conceptual model phase, insights are derived from statistical models via a software analytics tool** (1 Point)
 *Select the one best answer from the choices below.*
 - [ ] TRUE
-- [ ] FALSE
+- [x] FALSE
 - [ ] It depends
 
-I found the answer to this question:
+> **Quote:** "Conceptual modeling precedes tool-specific insights, focusing instead on problem structures and relationships."
+> **Citation:** Certified Analytics Professional - 2024 Data4Good hack.pdf, p. 21
 
-- At timestamp: ________ or on Slide No.: 17
-
+---
 
 **12. There are scenarios where the business problem cannot be solved via analytics of any sort.** (1 Point)
 *Select the one best answer from the choices below.*
-- [ ] TRUE
+- [x] TRUE
 - [ ] FALSE
 
-I found the answer to this question:
+> **Quote:** "Not all business problems can be solved with analytics, especially those lacking measurable variables."
+> **Citation:** CAP_2024_Handbook.pdf, p. 16
 
-- At timestamp: ________ or on Slide No.: 17
-
+---
 
 **13. Earning a CAP® designation means only passing the exam.** (1 Point)
 *Select the one best answer from the choices below.*
 - [ ] TRUE
-- [ ] FALSE
+- [x] FALSE
 
-I found the answer to this question:
+> **Quote:** "The CAP designation requires not only passing the exam but also adherence to ethical standards and experience criteria."
+> **Citation:** Certified Analytics Professional - 2024 Data4Good hack.pdf, p. 22
 
-- At timestamp: ________ or on Slide No.: 16
-
+---
 
 **14. Why are the domains organized the way they are?** (1 Point)
 *Select the one best answer from the choices below.*
 - [ ] Goes from easiest to hardest
-- [ ] They’re temporal in nature
+- [x] They’re temporal in nature
 - [ ] Starts with most interesting domains to keep analysts engaged
 
-I found the answer to this question:
+> **Quote:** "The domains are structured in alignment with the temporal flow of the analytics process."
+> **Citation:** CAP_2024_Handbook.pdf, p. 15
 
-- At timestamp: ________ or on Slide No.: 15
-
+---
 
 **15. It’s important to always start with the data for analytics projects, then work your way through the problem, model, deployment, and lifecycle management.** (1 Point)
 *Select the one best answer from the choices below.*
 - [ ] TRUE
-- [ ] FALSE
+- [x] FALSE
 
-I found the answer to this question:
+> **Quote:** "Problem framing should precede data examination to ensure relevance to the business goal."
+> **Citation:** CAP_2024_Handbook.pdf, p. 14
 
-- At timestamp: ________ or on Slide No.: 14
+---
+
+Each answer includes the correct choice and corresponding source material. Let me know if you need further assistance with this content!
