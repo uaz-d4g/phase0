@@ -23,5 +23,5 @@ Edit this file and put a 'x' by your name and date completed.
 
 ### Team 2:  Data Cats
 - [ ] Bruce. Completed on {date}
-- [ ] Kathleen. Completed on {date}
+- [x] Kathleen. Completed on 10/4/2024
 - [ ] Moises. Completed on {date}
