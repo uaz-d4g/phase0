@@ -1,6 +1,6 @@
 # INFORMS CAP JTA  - Notes/Practice Quiz
 
-**1. First Name** (1 Point)
+**1. First Name** (1 Point)  
 *Enter the information in the space below*
 `<Your first name you used to register for D4G>`
 
