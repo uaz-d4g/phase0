@@ -1,14 +1,14 @@
 # INFORMS CAP JTA Training with Dr. Beverly Wright (or recording)
 
-## Due Date: T.B.D. before 11:59 pm EDT
+## Due Date: Friday, October 11, 2024 before 11:59 pm EDT
 
-## Task: T.B.D.
-1. Display or print out the practice quiz [T.B.D.]().
-2. Attend [live](https://purdue-edu.zoom.us/j/96510908013?pwd=B3Ls6gMRj3aOrnb2lzfVbGiK3C3xbb.1) (Passeord: 827662) or watch the video: [T.B.D. ]().
-3. Fill in the practice quiz and take notes while watching the video. Record video timestamp of answers.
+## Task: Submit INFORMS CAP JTA Quiz
+1. Display or print out the practice quiz [informs_quiz.md](https://raw.githubusercontent.com/uaz-d4g/phase0/refs/heads/main/4_informs/informs_quiz.md).
+1. Attend [live](https://purdue-edu.zoom.us/j/96510908013?pwd=B3Ls6gMRj3aOrnb2lzfVbGiK3C3xbb.1) (Password: 827662) or watch the video: [Data 4 Good Training](https://www.youtube.com/watch?v=MtgTif4KMOs).
+1. Review the four (4) PDF files in this folder.
+1. Fill in the practice quiz and take notes while watching the video. Record video timestamp of answers.
 
 ## Deliverable: Submit Quiz
-1. Compare your answers with the [T.B.D.](). Double check any discrepancies. The 'key' many not be correct. Go with the answer you think is best.
 2. Take the actual quiz at [INFORMS](bit.ly/data4goodCAPJTAs) before the due date.
 
 ## Reporting
