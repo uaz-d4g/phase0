@@ -21,7 +21,7 @@
 - [ ] Define key metrics of success
 
 **Analysis of Each Answer Choice:**
-I have no idea which answer is correct. StudyCap gives different answers each time I ask it. The first three choices are part of Domain I, Business Problem Framing. The last two choices are part of Domain II, Analytic Problem Framing.
+I have no idea which answer is correct, but leaning towards 'State the set of assumptions related to the problem'. StudyCap gives different answers each time I ask it. The first three choices are part of Domain I, Business Problem Framing. The last two choices are part of Domain II, Analytic Problem Framing.
 
 ### **Option A: Define an initial set of business costs and benefits**
 
