@@ -1,6 +1,3 @@
-Below is the quiz with answers, each marked with "x" next to the correct answer, along with a quote and citation from the relevant CAP document.
-
----
 
 # INFORMS CAP JTA - Notes/Practice Quiz
 
@@ -28,6 +25,7 @@ Below is the quiz with answers, each marked with "x" next to the correct answer,
 
 > **Quote:** "Problem framing includes defining goals and metrics, identifying stakeholders, and stating assumptions."
 > **Citation:** CAP_2024_Handbook.pdf, p. 18
+> However, the JTA indicated no answer is correct (https://www.certifiedanalytics.org/jta).
 
 ---
 
@@ -35,13 +33,14 @@ Below is the quiz with answers, each marked with "x" next to the correct answer,
 *Select the one best answer from the choices below.*
 - [ ] Business Problem (Question) Framing
 - [ ] Analytic Problem Framing
-- [x] Data
+- [ ] Data
 - [ ] Methodology (Approach) Framing
 - [ ] Model Building
-- [ ] Two of the above domains
+- [x] Two of the above domains
 
 > **Quote:** "Data processing including cleaning, transforming, and validation falls under the Data domain."
 > **Citation:** CAP_2024_Handbook.pdf, p. 19
+> All source documents agree on this answer.
 
 ---
 
@@ -56,13 +55,13 @@ Below is the quiz with answers, each marked with "x" next to the correct answer,
 
 > **Quote:** "Choosing the software tool is part of Methodology selection, where approaches and tools are identified."
 > **Citation:** CAP_2024_Handbook.pdf, p. 20
-
+> All source documents agree on this answer.
 ---
 
 **7. During which domain should one negotiate/define the key metrics with the stakeholders?** (1 Point)
 *Select the one best answer from the choices below.*
-- [x] Business Problem (Question) Framing
-- [ ] Analytic Problem Framing
+- [?] Business Problem (Question) Framing
+- [?] Analytic Problem Framing
 - [ ] Data
 - [ ] Methodology (Approach) Framing
 - [ ] Model Building
@@ -71,6 +70,7 @@ Below is the quiz with answers, each marked with "x" next to the correct answer,
 
 > **Quote:** "Defining key metrics of success with stakeholders is a critical part of Business Problem Framing."
 > **Citation:** CAP_2024_Handbook.pdf, p. 18
+> The JTA indicates that the answer is Analytic Problem Framing (Domain II, T-4) (https://www.certifiedanalytics.org/jta).
 
 ---
 
@@ -99,6 +99,7 @@ Below is the quiz with answers, each marked with "x" next to the correct answer,
 
 > **Quote:** "The CAP exam covers seven key domains, each representing a critical part of the analytics process."
 > **Citation:** Certified Analytics Professional - 2024 Data4Good hack.pdf, p. 23
+> All source documents agree on this answer.
 
 ---
 
@@ -164,7 +165,7 @@ Below is the quiz with answers, each marked with "x" next to the correct answer,
 
 > **Quote:** "Problem framing should precede data examination to ensure relevance to the business goal."
 > **Citation:** CAP_2024_Handbook.pdf, p. 14
+> Speaker emphasized this point during the video near the end.
 
 ---
 
-Each answer includes the correct choice and corresponding source material. Let me know if you need further assistance with this content!

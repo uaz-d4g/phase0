@@ -22,7 +22,7 @@
 
 I found the answer to this question:
 
-- At timestamp: ________ or on Slide No.: 13
+
 
 
 **5. Under which domain should data cleaning, transforming, and validation be performed?** (1 Point)
@@ -36,7 +36,7 @@ I found the answer to this question:
 
 I found the answer to this question:
 
-- At timestamp: ________ or on Slide No.: 14
+14
 
 
 **6. During which domain should the software tool be chosen?** (1 Point)
@@ -50,7 +50,7 @@ I found the answer to this question:
 
 I found the answer to this question:
 
-- At timestamp: ________ or on Slide No.: 14
+14
 
 
 **7. During which domain should one negotiate/define the key metrics with the stakeholders?** (1 Point)
@@ -65,7 +65,7 @@ I found the answer to this question:
 
 I found the answer to this question:
 
-- At timestamp: ________ or on Slide No.: 13
+13
 
 
 **8. During which domain should data rules (e.g. privacy, security, IP, etc) be implemented?** (1 Point)
@@ -80,7 +80,7 @@ I found the answer to this question:
 
 I found the answer to this question:
 
-- At timestamp: ________ or on Slide No.: 15
+15
 
 
 **9. How many domains are included as part of the CAP® exam?** (1 Point)
@@ -93,7 +93,7 @@ I found the answer to this question:
 
 I found the answer to this question:
 
-- At timestamp: ________ or on Slide No.: 16
+16
 
 
 **10. Ethical dilemmas can happen during which of the following phases / domains?** (1 Point)
@@ -106,7 +106,7 @@ I found the answer to this question:
 
 I found the answer to this question:
 
-- At timestamp: ________ or on Slide No.: 16
+16
 
 
 **11. During the conceptual model phase, insights are derived from statistical models via a software analytics tool** (1 Point)
@@ -117,7 +117,7 @@ I found the answer to this question:
 
 I found the answer to this question:
 
-- At timestamp: ________ or on Slide No.: 17
+17
 
 
 **12. There are scenarios where the business problem cannot be solved via analytics of any sort.** (1 Point)
@@ -127,7 +127,7 @@ I found the answer to this question:
 
 I found the answer to this question:
 
-- At timestamp: ________ or on Slide No.: 17
+17
 
 
 **13. Earning a CAP® designation means only passing the exam.** (1 Point)
@@ -137,7 +137,7 @@ I found the answer to this question:
 
 I found the answer to this question:
 
-- At timestamp: ________ or on Slide No.: 16
+16
 
 
 **14. Why are the domains organized the way they are?** (1 Point)
@@ -148,7 +148,7 @@ I found the answer to this question:
 
 I found the answer to this question:
 
-- At timestamp: ________ or on Slide No.: 15
+15
 
 
 **15. It’s important to always start with the data for analytics projects, then work your way through the problem, model, deployment, and lifecycle management.** (1 Point)
@@ -158,4 +158,4 @@ I found the answer to this question:
 
 I found the answer to this question:
 
-- At timestamp: ________ or on Slide No.: 14
+14
