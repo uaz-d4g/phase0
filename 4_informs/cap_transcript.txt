@@ -1,0 +1,848 @@
+# Transcript of Data 4 Good Training: INFORMS CAP
+# Timestamp | transcribed text
+0:02 | all right so welcome back to the uh data for good case
+0:08 | competition so I'm sorry I missed everybody last week I was out uh with pneumonia so my great colleague will
+0:15 | filled in for me um I just have a few announcements before we get started with this week's session um the first the
+0:22 | first thing is just to make sure that you're checking out pitch so that's where we're going to have updates on the
+0:27 | competition and that's also where we'd like you guys to post your questions so um in Pitch I took a screenshot here you
+0:33 | can see under discussion boards that's where you guys if you have any um you know any questions you can post those
+0:39 | there and we'll try to follow up as soon as possible um do not email us because
+0:45 | you may not get a response okay so I sent an email to everybody in the competition yesterday just to make sure
+0:51 | that um um you knew how to get to pitch and it looks like most people are being
+0:57 | able to access um and log in today we have 928 student participants
+1:05 | and 238 teams so uh it's going great so far um also our leaderboard has been
+1:11 | updated so we're trying to update this as fast as we can um it's kind of real time when people take the quizzes um but
+1:18 | here's the bitly link if you'd like to go and and you know i' bookmark that so you can kind of see where your team
+1:24 | ranks within each of the four regions so here I just took a screenshot of the top four teams with within each region but
+1:31 | again this is going to be changing you know probably every few days as people submit their quiz
+1:39 | scores um just a couple reminders about um uh the deadlines for the quizzes so
+1:47 | um our comp or our kickoff call with prediction guard training um that was the first event that we had here you can
+1:53 | see the quiz link and um the deadline to actually submit that quiz if you haven't
+1:59 | already is today okay so today by um uh 11:59 p.m.
+2:05 | EST um same thing with the second training session we had with prediction guard arm llms and rag um you can see
+2:13 | the quiz link there the deadline for that's also today so don't miss out because you know you don't want to miss out and maybe that was the quiz that um
+2:21 | took you from first place to the third place uh Microsoft training uh from last
+2:27 | week uh the quiz is do October 11th that's 1,800 points so there's more quiz
+2:33 | questions um for that training session because it was a lot more content than the other training sessions today we're
+2:40 | going to have informs cap JTA training with Dr Beverly Wright and here you can find um the quiz link to submit your
+2:47 | quiz there um these slides are in Pitch also the links and the due dates are in
+2:53 | Pitch so if you're like oh where did that go um just go back there and then also after this Call's over today um we
+3:00 | be Post in the recording of the call in um in
+3:05 | Pitch make sure you don't forget to schedule your AI 900 exam okay don't wait till the last minute you know
+3:12 | schedule a day you know you can book it maybe you know a couple days before it's due but um make sure you get on the
+3:18 | schedule because there's only certain time Windows um to schedule um and
+3:23 | that's a key part of this competition that's one of the big value propositions of this competition is to get that $99 | 3:30 | voucher to sit for the Microsoft AI 900 certification so just you know go and
+3:36 | get that scheduled um we had sent out an email yesterday so you guys know this is the steps to schedule your
+3:45 | test also today we only have 28 teams on the kagle leaderboard so here's just a
+3:50 | screenshot of the teams um get on there okay so that's another thing you know I've been doing these competitions for a
+3:57 | while now and I can tell you that the teams that that tend to come out on top in the end they're the ones that started
+4:03 | early they didn't wait till the last minute so um to get on the leaderboard I
+4:08 | I sent some instructions on that the main thing is you create a kaggle account and then one person on your team
+4:15 | maybe you guys could just get together as a group but uh one person on your team should add each person individually
+4:22 | one by one so um you know pick a leader on your team and then that person can invite uh their first teammate on the
+4:29 | team and then once they accept then they can do the next one so on and so forth once you're there as a team um you can
+4:35 | go ahead and upload upload the um sample submissions file that will get you guys
+4:41 | on the leaderboard you know in like the lowest rank um but it's nice to see that
+4:46 | we already have a lot of teams uh already they're building models and they're getting some pretty darn good
+4:51 | scores so that's that's really good to see so I hope you guys are booking some time to do that uh the kagle
+4:57 | competition's about a third of the you know third of the competition
+5:03 | points uh data Camp so data Camp's not part of the competition points this year
+5:08 | um but it looks like two-thirds of the uh participants have already accepted
+5:13 | their invitation to take advantage of those free courses so don't forget that you know in this competition you got six
+5:19 | months of access to all their courses um and they also have uh 50% off vouchers
+5:26 | for certain certifications like a900 and powerbi uh um data analyst so you know don't
+5:33 | miss out on that if you don't you know if you haven't joined yet it looks like there's just over 300 people out of the
+5:39 | group that haven't accepted their invite here from my experience uh the invitation almost always goes to the
+5:45 | spam quarantine folder so if you're not seeing it in your inbox go there um it's there I've been sending updates almost
+5:52 | every day so if you go to your spam you might see a lot of emails and that's me just making sure that you don't miss it
+5:59 | okay uh marker your calendars for next week so next week uh the Train's only 3 to
+6:05 | four o'clock and it's on AI ethics with Prime C CE Prime AI CEO Aaron Baga who's
+6:12 | also a certified analytics professional so we're so thankful to have him that will actually be our last training event
+6:18 | for points in our competition so don't miss out on that okay I'm going to go
+6:24 | ahead and hand it over to Dr Beverly Wright and let her uh get going
+6:34 | excellent thank you so much uh let's see let me share a screen hello everybody
+6:41 | I'm glad you're a part of this competition and um I believe strongly and in getting experiential learning and
+6:48 | um benefiting others so this is a perfect combination I'm going to uh share some things with you and um I have
+6:55 | some exercises along the way um Matthew how do you want to handle those you want me to take breaks and let them do the
+7:03 | work or how do you want to do that yeah you can it's however you want to run the session we're kind of scheduled maybe
+7:09 | around five o'clock or before is when we can end but uh it's really up to you yeah okay okay I got it also um
+7:16 | there's a question in the Q&A so you may want to answer that cool um okay so I'm gonna talk to you about the inform cap
+7:24 | which stands for certified analytic professional which you've probably already been exposed to this point in
+7:30 | the um in the program uh a little bit of background um I'm a vice president of
+7:36 | data science and AI at a consulting company called wle Data Solutions we're headquartered in
+7:42 | Chicago and we do everything like dated AI in the services side um I'm also the
+7:48 | immediate past president for the informed analytics society and I'm the incoming chair for the informs Upstate
+7:55 | chapter which is a new chapter that we started in South Carolina um I'm the chair for the
+8:00 | technology Association of Georgia's data science and AI Society director of executive data science programs at
+8:07 | University of Georgia I have a podcast called tag data talk and I'm a data
+8:14 | science for good leader and Advocate that's is a little bit about myself I've um either overseen developed or
+8:22 | participated in um probably about a dozen at least competitions at this
+8:28 | point most of which have been um for good um so my goals are to U motivate
+8:36 | you hopefully give you some information and provide some uh tactical steps um
+8:41 | hopefully this will help you not only understand the certified analytics professional designation but help you
+8:47 | understand how to develop a framework and um run these projects from start to finish so this is what I'm hoping to
+8:54 | accomplish today um my expectation is uh that I'm trying
+9:01 | to find ways to help you measure your own competency and the agenda that we have
+9:09 | is um after the introduction I'm going to give you a little bit about what is the key what is the capap what are the
+9:16 | requirements the importance of certification um and I'm going to talk a
+9:21 | little bit about the study guide and some information I pulled from the study guide there are seven different domains
+9:27 | and there are three that we're going to Deep dive into um there are a couple of
+9:33 | common pitfalls that people run into so I'll talk about that a little bit in the suggestions and then provide some uh
+9:39 | next steps for you so what is the cap uh certified
+9:45 | analy professional um it differs from a certificate and it's a certification
+9:51 | it's not quite a license and it's not the same as a degree but it is accredited by ancy which is the top
+9:58 | accreditation board for certifications um it's a way of verifying from a trusted independent and
+10:05 | Tool agnostic um kind of platform which is informs so the importance of cap is
+10:11 | um largely highlighted by the importance of informs and the validity that that can
+10:19 | bring um cap can prove your technical expertise uh it can also help um provide
+10:28 | evidence that you have soft skills necessary for the analytics field um and
+10:35 | it provides it's almost like a super analytics and data science
+10:40 | competency it's usually possessed by people that are accomplished in this field there are some early stage
+10:48 | individuals that have earned the cap um which really shows chops and as a way of standing out and it's valued by very
+10:55 | analytics oriented organization if you want to um get an easy way of
+11:02 | finding out more about the cap in general uh there was a podcast done several years ago with paully Mitchell
+11:10 | Guri who um was at the time she was at SAS which is uh if you're not familiar
+11:15 | with sth most of yall probably are but um phal analysis software in Carri North
+11:21 | Carolina and she worked there and they had certifications but she was also a part of the informed analytics
+11:27 | certification board and so she had a very interesting and deep perspective about um what is the cap what's the
+11:35 | value why is it important so you can also listen to this 20 approximately 20 minute um video or audio with her and um
+11:44 | that's on the analytics Buzz so there are essentially three
+11:50 | kinds of certifications there's tool-based certifications which will uh if you if
+11:57 | you take a certification from through Microsoft soft or Google or something like that um it's only that particular
+12:04 | tool or or you know a python or something that's very tool specific you
+12:09 | can also take technique based certification um exams and pass those
+12:15 | and those are really good if you want to do one thing so to give you a simple
+12:20 | example um you know Master forecaster you're a very good forecaster and that's
+12:26 | all you're trying to do it focuses on a particular technique but the cap is really a knowledge-based
+12:32 | certification type so it's not related to any specific tool or any individual
+12:38 | technique or method of um running analytics it's more knowledge based and that's one of the things I like about it
+12:44 | is that it stands independent and it's held by informs there are several requirements
+12:51 | uh for the cap education and experience being on a sliding scale um one thing
+12:56 | that makes it unique is that you have to have a certain level of EQ um emotional quotient and you have to
+13:03 | pass the exam and you have to agree to a very rigorous um set of Ethics which I
+13:08 | also find incredibly useful in my work because I can always fall back on that and say look I'm I'm a cap I can only do
+13:16 | certain things like I've got to be ethical and so even though um even if you have your own standard which is
+13:22 | super high it's always helpful to have an outsider you know an outside reason
+13:28 | to say like I'm a part of this this Guild if you will and I have this certification and so I'm upheld to those
+13:38 | standards okay so that's kind of just some very quick background on chaps and
+13:44 | so let me cover the domains to see if I need to stop
+13:52 | share and then I'll reshare that's this time
+13:59 | I will share the link okay there we
+14:13 | go oh okay here we go I'm just going to share my whole screen there we go okay
+14:19 | so um there are several domains that are part of the job task analysis that are
+14:27 | um um including in the capap the certified analytics professional designation or the cap and you can kind
+14:35 | of see these in a couple of ways one being it follows the scientific method
+14:40 | so if we have any you know um if we have anyone out there that's really studying more science related fields or you're
+14:48 | familiar with science related fields like physics or chemistry they follow a scientific method it kind of copies that
+14:55 | except in the analytic space um the other thing you might notice is it appears to be very temporal in nature so
+15:03 | it's in a certain order for a certain reason um you can't really jump back and
+15:09 | forth much even though it is an iterative process um but aside from the iterations that you have to take it kind
+15:15 | of needs to go in a start to finish um steps one through seven manner so there's two things I
+15:22 | wanted to make sure to tell you about that is that the framework is similar to it's kind of like an Adaptive um
+15:29 | scientific method and secondly that it does tend to have a temporal nature to it so um we're going to talk through
+15:37 | each of these seven and um I'm GNA have y'all do some exercises with um three of these and
+15:44 | then I'm G tell you the common pitfalls so one of my
+15:50 | favorites is business problem or question Framing and the reason that's um one of
+15:57 | my favorites is because it's important to actually do that there there are
+16:04 | plenty of scenarios where um an analytics team will start with a problem
+16:11 | um by going straight to the data that's not what the cap suggest it's uh it's a
+16:16 | common it's one of the common problems but um the place to actually start is
+16:21 | with business problem or question framing so this includes um
+16:29 | identifying the problem statement which you think is easy but it's actually
+16:35 | really not um y'all have probably all heard the statistic which is a little
+16:40 | frightening about the 85% of work that we do doesn't get doesn't get used it
+16:45 | doesn't get applied or operationalized and oftentimes doesn't get Scaled and a big part of this is um you
+16:53 | know the difficulty that we have with communicating the results but also that we answer the wrong question from the
+16:58 | get-go so this includes um understanding this initial problem statement and the
+17:04 | desired outcomes we also um have to really understand stakeholders and their
+17:10 | perspective so let me give you an example um as part of my data science for good
+17:17 | work I leverage volunteer data science and analytics and um project managers
+17:23 | and all and leaders all kinds of people to work on nonprofit causes
+17:29 | and one of the projects that we have was with an organization called Davis Direction
+17:34 | foundation and what they do is um Davis Direction Foundation is all about fighting addiction and fueling
+17:42 | recovery most of the participants with this nonprofit are addicted to opioids
+17:49 | or sometimes heroin and they have um daily struggles with this some of them
+17:55 | um that are part of the organization are even celebrities ities and they're very vocal about their addiction so my team
+18:03 | and I were working on this project to help them understand how to um improve
+18:09 | their programs that they offer to people that are going through recovery it's a really
+18:14 | interesting um it's a really interesting thing because it's both uh physiological
+18:20 | and emotional but there's also a behavioral component to it and so it's
+18:26 | almost like you sort of have control but you don't have complete control it's a dance um between the environment and
+18:33 | your DNA so um as part of working on this project we we were sort of I think the
+18:40 | team was grasping for straws like trying to really understand the data and put some context behind it and some um
+18:46 | texture and they were having such a struggle that I said let's just go see these people so we actually took a field
+18:54 | trip to Davis jaction foundation and um they had monthly I
+18:59 | think it's monthly could be weekly now but at the time I think it was monthly meetings where people would come
+19:05 | together and talk about their struggles and the difficulties that they have every single day so my team went and we
+19:13 | heard um we heard directly from these people and um it was very eye openening
+19:20 | we got back and the data looked different everything seemed different so
+19:27 | one of the ways that we can understand the stakeholders and their perspectives
+19:32 | is to walk in their shoes so um going out to the field I've also sat with call
+19:39 | center agents when um I worked on a call center project I've gone out to lots of
+19:45 | different manufacturing plants seen um how toilets are made seen how glass is
+19:50 | melted seen how um fabric is U manufactured in electronic devices and
+19:57 | so getting into their world is always helpful now if you don't if you don't
+20:03 | have the ability to go in person there's this wonderful thing called the interwebs and you can go to the interweb
+20:08 | and learn all kinds of things that will help you understand how to better frame your business
+20:15 | problem so um that's step one is to truly really understand the context of
+20:24 | why the question is even being asked why is it why now um and then to come up
+20:30 | with a statement so we're going to come up with some statements on this super
+20:35 | important um the second step or domain is the analytic problem Framing and in
+20:43 | this stage um it's one thing to make a statement about the problem but it's
+20:49 | another thing to actually develop something along the lines of a hypothesized model because that's where
+20:54 | the rubber hits Road like at this point you're saying okay well that's all great but how how do I actually solve this you
+21:00 | know can I um what are the driving factors what's the Y variable um what am
+21:06 | I what are the key metrics for Success um and so I always come up with a a
+21:13 | diagram physical picture that shows like this is what we're trying to solve here's how we're defining it these are
+21:19 | what we think are going to be the inputs um and so I tend to push my teams to use
+21:25 | Google Scholar um to help with the analect problem framing stage so that we
+21:30 | can figure out um yes we know the problem now but how do we put that into an analytic problem so I'll show you an
+21:37 | example of that domain three this is where people start getting a little more comfortable
+21:44 | um the problem framing um are a little uncomfortable because well I think it's
+21:51 | because the schools are not really teaching this as much as they are the actual data data cleaning and the
+21:57 | analysis meth meod and so people um typically that are from analytics tend to get more comfortable when we start
+22:04 | talking about the data domain so in the data domain uh this is where we uh
+22:09 | figure out what data we um acquire prioritize um clean transform validate
+22:16 | um just some basic relationships in the data nothing fancy yet um and so if
+22:22 | there are assumptions that need to be met like normal distributions like do we need to transport form um or take a log
+22:30 | or something like that so that data management is the the third
+22:37 | domain the fourth one is to um come up with an approach uh this is another sticky Point
+22:44 | um where you have to figure out what approach or what analytics technique um
+22:50 | to to apply to this particular problem so the identifying the problem is tricky
+22:57 | and coming up with the right way to solve it is also tricky now there not
+23:03 | always but often times there are multiple ways to um solve a problem and
+23:08 | I'll show you some examples in our exercises but that's the heart of domain
+23:13 | four which is understanding the right analytics
+23:19 | method domain five is um applying that analytics method to the data set to
+23:24 | solve the problem and build a model and this is where people are like yeah I love this part because that's why we got
+23:30 | into this stuff is to build models or at least that's why I got into it and most of the people I know that's what they
+23:36 | like doing as well so the model building is um building these models into your
+23:43 | you know whatever program of your choice um whether you're writing this in python or however you're running it uh so
+23:50 | building the model itself into a program uh domain number six is is um
+23:59 | you're trying to figure out like what you deploy the model and you're trying to figure out what's the business
+24:04 | validation of the model and you have your insights there another place
+24:10 | where um we struggle as a community a little bit is um delivering a report
+24:15 | with findings or creating the model that gets um integrated into a system so to
+24:22 | give you an example um I had a project that I was working on that was safety related it had to do with safety and a
+24:27 | manufacture in plant and so um to take it partway which would be insights is
+24:34 | still really really useful um we told the plant manager and the safety managers um like look here's some things
+24:41 | you need to change like I know you're trying to save money by buying these gloves but the problem is it's not
+24:47 | working they're too thin so people are actually putting on two gloves they're double gloving and so then you're spending a little bit more money because
+24:54 | that b double gloving and also when you double glove the top glove flips off the bottom glove and that causes safety
+25:00 | problems if you drop something or you know whatever so um that's an example of
+25:06 | insights so what you're telling them is you need to re-evaluate the gloves that you're buying you know find some
+25:12 | different gloves but a solution which also is a part of the this report of
+25:18 | findings um you can do insights you can also do a solution which is um you
+25:24 | integrate it into their systems so in that in a similar scenario the plant manager might come in in the morning
+25:30 | kind of push a button and see like okay where are my highest risk areas today for safety concerns well maybe it's over
+25:38 | here you know it's a cloudy day and the lighting's not good and there's a train going by and they always leave behind
+25:44 | residue um and it's distracting or it's too loud or the workers can't think
+25:50 | straight or you know for whatever reason we have um a different maybe we have contractors over in that section today
+25:56 | and so that's going to be a higher this is where the model that you built is integrated into a system and they can see it in
+26:03 | real time at the point of decisioning which areas to kind of focus on to make sure things are um going smoothly since
+26:09 | they're higher risk for safety that's an example two examples of um
+26:15 | deployment and then my life model life cycle management um creating the
+26:21 | documentation tracking the model performance um recalibrating maintaining
+26:26 | the model all these kinds of things that are sort of elongated vision of um you know what the life cycle of this model
+26:33 | is going to look like you know how are we going to um keep it moving or um modified as needed I mean nobody
+26:40 | expected the co to happen nobody like nobody saw that coming hardly maybe one
+26:45 | or two people in the world saw that coming um but it changed a lot of our models and so if something like that
+26:51 | were to happen or if there's some other natural disaster or if there's a change and just you know I work for um a gas
+26:57 | company me during deregulation and when deregulation happened and everybody had a choice on their natural gas provider
+27:04 | it changed everything about the way we um saw markets um we actually you'll
+27:09 | love this we used to call them rate payers not customers R payers so um
+27:17 | those are the seven domains of um the
+27:22 | certified analytics professionals let me pause here for a second um and see are
+27:28 | there are y'all are y'all out there y'all good is anybody there are there any
+27:34 | questions right now before I move oh okay cool we have one okay
+27:40 | so domain one is I'm gonna show you some examples in a second but domain one is
+27:48 | you don't you pretend like you have access to any data that you want and you have access to any any potential
+27:55 | modeling technique that you want so so in domain one you are only focused on
+28:01 | the business problem there's no limitation with domain two you have to
+28:07 | start going like okay how am I going to solve this like am I gon you know just use Simple example here am I going to
+28:13 | run a regression if I'm going to do a regression what's my y variable and uh
+28:19 | what are my drivers you know what what kind of things drive that phenomenon so if I'm looking at something um you know
+28:26 | like um I don't know I'm thinking of something that everybody can relate to like uh likelihood to go to a Purdue
+28:33 | football game okay and there are certain factors that show that you're likely to go to that game well at that point you
+28:40 | got to start figuring all those details out what variables are going to be included how am I going to analyze it that's the analytic analytic framing
+28:48 | different from business problem framing so in that scenario business problem framing would be we got to understand
+28:54 | how to get more butts in the seats of our football games not that yall have that problem just hypothetically and the analytic framing
+29:01 | is saying okay how are we going to measure game attendance is it purely the number is it how long they stay is it um
+29:09 | season holders versus not like how are we going to measure that and what are the drive what are the things to drive it um as well as how like how we're
+29:17 | going to analyze the whole thing that's the difference between a business problem and an analytic
+29:25 | problem uh let's see I think I have another here oh you already answered
+29:33 | that for me thank you okay any other questions before I
+29:38 | move back to the
+29:44 | deck are y always just quiet quiet grp right here we
+29:52 | go okay so let's see we left off here and so this is just a snapshot of of all
+29:58 | the seven um domains which as you can tell now that you're thinking about the
+30:03 | whole picture you're like oh that is the scientific method basically but applied to analytics and yeah I do see what
+30:10 | she's saying about the temporal nature because you can't really do the model selection um until you've done some
+30:16 | business problem Framing and you know it's hard to do these things um out of
+30:22 | order so I'm going to go into some examples in a hot second but let me go
+30:28 | back to why it's important to um get the certification and why this is all
+30:33 | important because I I hope that you're already starting to see some of the value like oh man I could use this every
+30:40 | single time and you know what's funny is it kind of comes organically after a while like I sort of had um mine was
+30:47 | four faces that I just created on my own and then when I discovered um the cap I was like oh my gosh this is the same
+30:53 | kind of thing I'm sort of already doing so um it's makes it very easy for you to
+30:59 | adapt um to your to kind of make it your own and to adopt as um a framework that
+31:06 | that you can apply to just about anything um in analytics so the
+31:11 | importance of certification um it's the capap the cap is almost always listed as
+31:18 | one of the top certifications that will pay off in your career uh and so it's
+31:25 | it's very common to see this listed as um one of the ways to get yourself like
+31:31 | noticed and to make yourself sort of stand out from a crowd um I worked for a
+31:37 | company that was focused on recruiting and that was something that we always looked for because we had certain
+31:44 | companies that would say they would have a data science job description they would say cap certification strongly
+31:50 | preferred or cap designation strongly preferred so um it's definitely a good a
+31:56 | good way to like S stand out from an employment standpoint it also gives you some Prestige um I have people ask me
+32:04 | all the time like because I'm I'm a big person that I'm a big like Mentor kind of like I'm always like you should get a
+32:10 | mentor I have like four mentors you know I think I have about seven mentees right now and um but the question is like
+32:17 | where am I G to find a mentor like who's going to take the time and spend time with me and help me understand life you
+32:23 | know this is where you can get a mentor like um when someone comes to me if they
+32:29 | have a cat designation whatever they're asking I almost always say yes we're part of a guild you know we support each
+32:35 | other we're a community um and so it's another way of um building being a part
+32:40 | of that community and having some Prestige and meeting people that you maybe would never have met before it
+32:46 | also forces you to have continuous education I was I had a conference earlier today actually called devot and
+32:55 | one of the participants asked me about fication of course course I talked about cap and I told them that every three
+33:01 | years you have to do stuff you have to hustle um you can't just go stagnant um
+33:07 | because the continuous education requirement means that you're constantly
+33:12 | learning um in order to maintain your certification it's not a once and done sort of thing like other certificates or
+33:19 | certifications um it also gives you the opportunity to make a real difference um I hear people say all the time I feel
+33:27 | like I'm not make any impact like people will leave fully remote wellp paying
+33:33 | good boss they will leave good jobs because they feel like they're not making a real difference because their
+33:38 | models aren't created right and they're not they never really answer the right question or they didn't they just don't
+33:45 | know how to make an impact and so this is an opportunity to make your work more
+33:50 | effective and to make a real difference and then lastly but probably firstly and
+33:56 | the priority list is um the ethical standards piece I can't I can't emphasize enough especially you
+34:03 | know I've been in this field for over 30 years and um we've always had ethics but
+34:08 | now more than ever I think we've got to pay attention to the ethicist and the ethical side of every decision we make
+34:15 | especially as it relates to Ai and um this is a way for you to have that high
+34:20 | ethical bar is by becoming a
+34:26 | cap okay so why is everybody pushing me to be a cap because caps are constantly pushing
+34:34 | other caps like they're always pushing for other people to be in cap well it it affects all of us that's why um and
+34:41 | informs as an organization advances and promotes the science of technolog the Science and Technology of decisionmaking
+34:47 | to save lives save money and solve problems and so other Caps or caps are
+34:52 | pushing people to become caps so that we can Elevate ourselves as our whole community and get better at what we're
+35:00 | doing so that's um that's why a lot of times you'll hear it's almost like
+35:05 | people that have kids are always trying to push other people to have kids it's sort of like that I guess um okay so let
+35:11 | me go now we're about to get to exercises all right so one of the ones I
+35:18 | told you that people really struggle with is the business problem framing domain they really struggle with this so
+35:25 | I don't know if um you going to be able to type your answers or if you're going to unmute or what but um there are
+35:33 | multiple ways to problem frame now what's interesting is there's not that I
+35:40 | know of there's not one solid book that
+35:45 | everybody adopts there's a there's I think there's two that are about problem framing many of the books are about
+35:52 | problem solving but there's not a lot about problem framing just to even identify the problem from the get-go
+35:58 | that's a little bit trickier but I came up with a few um that I've seen here and there that are pieces of either other
+36:05 | books or articles I think I have an article about problem framing as well um but there's one method it's the five ws
+36:13 | the problem Fram who are the stakeholders what problem or function is
+36:20 | this meant to solve um where is it actually happening
+36:26 | where does the function need to be performed are there physical or spatial characteristics involved here when does
+36:35 | this problem occur it's all about like focusing the W's on the problem and then
+36:41 | why is this ever happening why does this seem to occur and I would say even maybe
+36:47 | why now maybe this's been a problem for a long time um Harvey Brightman who um
+36:54 | used to write books on problem solving he had a really neat story about um a
+37:01 | plant and in this plant um speaking of trains that's what made me think of it
+37:08 | but in this plant there was a production line and it was this H kind of clear stuff I could think it was some kind of
+37:14 | filament and as it was getting developed it was starting to get something in it it was like a black thing that was
+37:21 | getting in it and it's like supposed to this clear Extrusion based thing you know some kind of plasticy polypropylene
+37:28 | something like that and but it had specks of black in it so the question
+37:34 | was um okay how do we solve this and as you can imagine they went to the
+37:41 | teams and said let's start brainstorming and the problem was they started saying things like oh well is somebody mad did
+37:48 | somebody get fired recently or written up did um did someone drop something
+37:53 | into the I mean they start coming up with this the answer and they weren't focused on the actual
+38:00 | problem and they didn't even know what the material was you know if they had
+38:05 | applied the five ws they would have known um who is actually seeing this
+38:10 | like oh it's only those people what is the problem like what is the stuff and
+38:16 | they never even pulled it out of this and looked at it and figured out what it was they didn't even try to figure that
+38:21 | out um and where does it happen it was happening only in one part of the plant
+38:27 | when does it happen it was only happening during a two-hour window and why that's what we were trying to get at
+38:33 | was why is this happening it turns out um that during certain Seasons there was
+38:38 | a window that the the um workers were opening they weren't supposed to but they were opening this window and that's
+38:46 | where the the who came in help was who who was super helpful because it was only with certain shifts with certain
+38:53 | people and so they were opening the window there was a new train that was going by new as in the sense of um it
+38:59 | just started that route and it was carrying something I think it was coold and the particles of the coal were
+39:06 | getting in the window and coming into the plant and getting into the production line but if you didn't if you
+39:11 | didn't ask these questions the problem is people try to come up with answers they just want to jump straight to the
+39:17 | answer like oh well what about this it could it be that and could it be this there's like a million things that could be you know like you really got to stop
+39:25 | and back up and figure out what the actual problem is first so I hope this example makes sense
+39:32 | um aside from the five W's uh there's this scholar named Panka Janes and I'm
+39:41 | giving you another um podcast to listen to aside from um Paula or Paulie
+39:48 | Mitchell guy is also panca Jane and Pianca Jane is on tag day to talk she's
+39:55 | written a book called behind every good decision and she has um a framework that
+40:01 | she uses to frame problems um and so she uses the batter uh business question
+40:07 | analysis plan data collection derive insights and recommendation very similar to the domains that you see but under a
+40:15 | business question find the real and actual business question she talks a little bit about like how do you even do
+40:21 | that you know is it um are there different ways of doing that so please take a listen to uh that interview with
+40:28 | Bianca Jane that's tagd talk it's um I think it's about 15 or 20 | 40:34 | minutes a third way that you can um frame the business problem is by
+40:42 | being super annoying like a four-year-old kid so kids like to ask
+40:48 | why they're always like why can't I have that candy well it's not good for you
+40:53 | why is it not good for you like why is it not good for me like it pure sugar well what's wrong with sugar well it can
+41:00 | hurt your teeth it's not good for your gut it's actually kind of poison why is it poison well it's made of this
+41:05 | chemical I mean kids are so annoying with the why right like why why why but
+41:11 | if you're talking to a business leader you don't want to annoy them so you do have to worry about exactly how to word it um but if you're talking to a
+41:18 | business leader or even a nonprofit or whoever is um you know sort of the steward of your particular analytics
+41:24 | project that's a really important thing to do is to is to really dig into the
+41:29 | why why now let me let me tell you um I have another podcast interview with uh
+41:37 | someone named Selma doic I didn't put her on here so I'm G put I'm GNA put her
+41:42 | Selma doic she's with Carter the baby the baby clothing company and she talks
+41:48 | about um the YY and what what the reason I call it
+41:53 | the YY and that she calls it the YY is it's the the real why not necessarily
+42:00 | the stated why okay this is why this stuff is so hard because um it's
+42:06 | psychology so not only is it tricky to get your
+42:12 | stakeholder to actually admit the problem but sometimes they deliberately
+42:18 | mislead you and so you have to find the real why
+42:24 | let me give you an example I'm a big Storyteller as you tell so I had a client and it's a giant company um like
+42:33 | a $30 billion company that you've never heard of because they're behind the scenes they sort of white label and stuff and we were working on a great
+42:41 | project with them and all throughout we were like this doesn't seem right this doesn't look right this is weird like I
+42:47 | don't know if that's right and we kept saying this you know these kinds of things as we were going through the process with the client he's like no no
+42:53 | no go ahead you're good you're good and as it turns out
+42:59 | he was using us to prove the point that
+43:05 | Geo that garbage in is garbage out and we didn't know that the whole reason for
+43:11 | the project was for him to go back to it and say this is why we need to invest and have clean good data because no
+43:20 | matter how advanced like we did all kinds of back flips for this project no matter how advanced no matter how great
+43:26 | your analytics method you can't wash out the bad data and so
+43:31 | no matter what you do it's always going to come out weird and it did so that was
+43:36 | the real why that for doing the project and there are oftentimes layers in an
+43:42 | organization or even in nonprofits there are politics like you have to you have
+43:48 | it's a real Discovery process you have to instill trust um as part of it to really get that dialogue in a um I want
+43:55 | a feedback way I'm telling I'm telling y'all some
+44:00 | Secrets here good secrets you don't have to deal with stuff like I did hopefully
+44:07 | not as much okay so here are some business problems um these are real
+44:15 | problems that I've encountered from clients in the past and some of them are
+44:21 | so poorly written um the client actually thought these were
+44:27 | excellent like a super clear perfect business problem um and they weren't so
+44:35 | let me give you I'll walk through these and what I want y'all to do is um I want you to pick um and then want you to pick
+44:44 | one and then we can rewrite it and you guys can tell me and I'll put it in the desk okay is that straight let me walk
+44:52 | through these five and you pick one and rewrite it and then we'll talk about it
+44:58 | okay so um help develop a
+45:03 | crosscorrelation by vertical and business question this came from a consulting company on our ability to get
+45:11 | work after making a proposal and depending on the consultant framing the
+45:17 | work so what they're trying to figure out is um if I have a prospect company
+45:24 | I'm a consultant I have a prospect company let's say Mars comes to me and says I want you to help us figure out
+45:31 | how to sell more M&M okay so I'm
+45:37 | gonna as a consulting company our teams are going to come up with a proposal
+45:43 | back to the Mars group and say here's what we propos for your project will you
+45:48 | hire us to do it okay that takes a lot of man hours right like a lot of
+45:53 | employee time to write up these proposals so consulting company kind of
+45:59 | irritated and saying if there are some kinds of questions or some verticals of business
+46:07 | where we're never going to win the work just tell us and we'll quit focusing our effort on them we can like maybe we're
+46:13 | only good for Health Care maybe we're only good for customer experience questions like maybe like let's figure
+46:18 | this out because we're spending a lot of time you know creating proposals and not winning the work now
+46:25 | notice he said literally crosscorrelation they you have to keep
+46:33 | in mind a lot of times they don't know what they're talking about and they're trying to use language thinking oh that you're
+46:40 | GNA understand this because you're technical so I'm just like real talk with Beverly wght here y'all so that's
+46:47 | how they sometimes word things don't take it too seriously like it's even if he had said develop a regression model
+46:53 | it doesn't he doesn't mean that like they they're just trying to tell you they need some kind of help
+46:59 | answering this question um okay the rest of them are
+47:04 | not as hard um so number two we're trying to figure out how to eliminate late departures for our
+47:12 | trains number three how can we best retain our best police
+47:17 | officers number four our customers aren't buying as much as they did before and we're not sure why number five how
+47:26 | can we learn ways to determine the right places to put our new stores we don't want to put a store somewhere that'll
+47:32 | turn out unsuccessful so um let's take a quick um
+47:40 | four minutes and pick one of these questions and then rewrite it and then
+47:46 | we can talk about what you guys came up with so I'm going to go on mute for four minutes and um and we'll be right back
+48:25 | yeah
+48:55 | e
+49:25 | e
+49:55 | e e
+50:40 | someone had a question about the first question on the quiz and it is correctly
+50:46 | written I just confirmed it
+50:59 | all right you guys are out there it's Friday
+51:06 | afternoon and you're working on this data for good competition so I'm proud of
+51:12 | you um who would like to share do we have something in the chat
+51:18 | or um do we have someone that I don't know are they able to unmute
+51:24 | Matthew yeah they should be able to okay does anybody want to take one of
+51:29 | these questions and rewrite
+51:41 | it they're all written very badly just so you know like if you think these are written well we need to
+51:52 | talk five wi killing the onions
+52:11 | anybody all right well you guys um will learn a lot better if you actually you
+52:16 | know come up with some stuff here oh good oh yes
+52:22 | okay yeah you can put it in the chat if that's easier
+52:32 | um well let's look at see I really want to
+52:40 | look at yeah here we go I really want to look at this one so this one says we're trying to
+52:49 | figure out how to eliminate late departure for our
+52:54 | train so one thing is um L's wi like the
+53:01 | whole entire company uh or is just certain like there
+53:06 | there's a substantial late departure problem only in the Southeast or only in certain cities so that's one thing is
+53:14 | who's we um secondly is the word eliminate
+53:20 | like come on really that's your goal is zero late departures like that's a really high standard you know to meet
+53:27 | what's the real standard you know what are you actually hoping to achieve and
+53:32 | what's the real goal because I know I know it's not I know it's not eliminating
+53:37 | 100% um the third thing I want to point out is um the word late so we're really
+53:45 | just scking this sentence part um the late departure like what's considered late is you know in the airline world
+53:52 | this is trains but in the airline World 14 minutes and 15 9 seconds is considered on time
+53:59 | departure so in the train world is it similar is it considered late if it's
+54:05 | three minutes or 10 minutes or 15 minutes or what do you mean by late is there a tolerance is it is it binary of
+54:12 | like yeah it's late or it's not there's no tolerance or is it like it was only 4 seconds late you know so what's
+54:18 | considered late also um if a train leaves the
+54:24 | station late but makes up time and arrives when it should is it still
+54:30 | considered late so if you if you leave I don't recommend doing this but if you leave
+54:36 | your house late and then you make up time four minutes you know you leave your house three minutes late and you
+54:42 | make up four minutes on the road you're a minute early does that still considered a late departure or is it a
+54:49 | wash is it really the arrival on the other side um and it says for our trains well I
+54:58 | mean the airline industry and I think the trains too they partner with other companies and sometimes they operate
+55:05 | under a different like they're it's their passenger but they're using
+55:11 | someone else's equipment so do they mean our just the ones that are owned by our
+55:16 | company or do they mean any of the trains that are operated by us you know
+55:21 | with our passengers like what's our what's an our train like so there's tons
+55:26 | of places that are unclear just in this one simple sentence so um that's like
+55:35 | what you're really wanting is an ideal or a better train schedule I think
+55:41 | that's what they're really asking but they didn't really say it that way um they're probably trying to maximize
+55:48 | profit and minimize the cost of operations um how like I said how are
+55:54 | late departur measures what issues what happens if there's a late departure is it just do we have to pay people you
+56:02 | know what kind of um impact does that have so I I don't think I did a rewrite
+56:09 | on that one but these are some of the problems associated with this particular one and you have to rewrite it to
+56:15 | address all these issues that we just mentioned let me go back to um the
+56:21 | police officers how do we best retain our best police officers woo boy this
+56:29 | one's loaded um so what's the best police officer and there are airport police
+56:37 | officers that are very different even though they're on the same work the same forth the airport police officers are
+56:43 | very different than the ones that are on the street um and correctional officers are very different from all you know
+56:51 | both of those and so you first has to Define like what's a police officer um
+56:56 | um the air airport police officers have it really really good 99% of the time
+57:01 | and really really bad that 1% of the time when things go bad it's an extreme job whereas um those on the street they
+57:08 | kind of have it fairly steady you know a steady level of bad or tough it's a
+57:14 | tough job for sure um there's another one where I did it right along and so what's considered
+57:21 | a best police officer and what's a police officer and what does it to
+57:26 | retain and what this this was actually a question from the mayor um what he meant
+57:31 | was how do we keep them at least three years past the um police training
+57:39 | because police training is very expensive the academy costs like three times their annual salary and so if you
+57:46 | don't keep them at least three years it's kind of like a waste um so there's some cities that were considering I
+57:53 | don't know if they're doing it now or they're still just considering ing it they were considering making the officer
+57:59 | pay the city back for the police academy if they leave within the three years because they haven't gotten their value
+58:05 | back from that training uh isn't that interesting so this mayor said well I don't want to be
+58:10 | like that like but we got to find a way to in a um in a more positive light we
+58:17 | got to find a way to retain these people so we that's that's what he meant you
+58:22 | know um so how do we reduce the number of off officers in the top 10% performance rating to be only 5% of
+58:30 | those leaving would be a better way of writing that that's not a it's still not a fantastic way but it's definitely better it's got numbers to it um it's
+58:38 | not unrealistic you know it's smart goal basically what factors have the greatest influence on the retention rate of high
+58:45 | scoring officers you still have to kind of Define what is high scoring but it would be good to know it turns out um
+58:50 | from this project that having the and I'm not being sexist but the majority of
+58:56 | police officers are male um so having the wives travel with them not leaving
+59:03 | them behind another city um because to give you an example the city of Atlanta pulls from Chicago and New York and uh
+59:10 | what's the other City there's another one and often times they they'll pull
+59:15 | the officer and leave the wife kind of behind you know so that it's they're not
+59:21 | going to succeed you gotta you got to bring bring the wife over it's worth the money to pay for her to travel over and
+59:27 | to provide um career assistance to help her find jobs and those sort of things so these are some of the insights that
+59:33 | we found but it was tough to even figure out what the question was because of the way it
+59:40 | started um yeah so those are two examples from
+59:45 | uh these five but I would encourage you to just pick one and a you know whenever
+59:51 | it's convenient just take a screenshot if you need to and just pick one as to to practice and say okay gosh what's
+59:57 | wrong with this question looks like a great question and but when you really criticize it like I want you to pick on
+1:00:03 | it pick on these questions and you really pick on it you'll realize how vague and how awful some of these
+1:00:10 | questions are they are definitely not ready to be put into an analytic framing at all because once you if you take one
+1:00:17 | of these here's a way to test if you take this question and say okay what kind of model would I
+1:00:23 | build I don't know I mean if you have no idea because the question is written so poorly that's one way to do a litness
+1:00:28 | test to see like is it written is it succinct and clear enough and definite enough that I can create a hypothesized
+1:00:36 | model from it if you can't then you got to rewrite it I have never had a
+1:00:42 | stakeholder give me a good quality business problem I've had to rewrite
+1:00:47 | every single one and get more detail usually requires multiple interviews so um yeah it's a good skill
+1:00:54 | to have okay domain number two also where people
+1:01:02 | have um a lot of Challenge and someone asked a question earlier about what's the difference between the two so um
+1:01:08 | hopefully this will help is this question related to me no
+1:01:14 | okay um so the first question um there's
+1:01:20 | I only cover the top three where people are really messing up I mean I'm go
+1:01:25 | through every set seven but I'm giving examples of the top three where people tend to mess up it's just so happens
+1:01:31 | that one and two are right next to each other and then we skip to four I think four is the next one um and so we only
+1:01:37 | cover three of the seven in deep detail if you noce that skip that's why
+1:01:43 | okay so domain number two is analytic analytic problem framing um and so this
+1:01:49 | is where you take the actual problem a step further now remember in the problem
+1:01:55 | the business problem framing remember this is where the sky a limit
+1:02:01 | like you're not bound by reality or the data that you have or the analytics
+1:02:07 | method that you can use or whatever it's it's just what is the actual problem
+1:02:13 | period when you get into analytic framing now you have to deal with reality so annoying right you have to
+1:02:19 | think about um what are the proposed set of drivers what data could I actually
+1:02:27 | use to how would this concept this construct manifest itself you know so
+1:02:33 | like um with the police officer or let me take the train uh with the
+1:02:39 | train how do you measure how does this manifest late departure well how do you measure that you know and again is it
+1:02:46 | the arrival time really or is it the time it left the station is it the time that it left you know like with planes
+1:02:52 | they back up but then sometimes they sit there for 10 minutes or more before they
+1:02:58 | actually wheels up so is it wheels up is it back off the um tarmac is it the door
+1:03:03 | is closed is it like what exactly how do you measure um so you know you have to
+1:03:10 | think about all those details in the analytic framing part which is super fun to do once you get the hang of it um so
+1:03:18 | let me give you a quick example um this is a uh this is a conceptual model that
+1:03:25 | I've run dozens of times at different companies but um you can think about it as a bank
+1:03:32 | because I I definitely have done this with um different banks so the question had to do with um banking you can you
+1:03:39 | don't have to stay with your primary Bank like you're you know you can go anywhere it's like really tough to keep
+1:03:46 | a client loyal sometimes with banking so that's the first part is um you know
+1:03:51 | maybe the business question was how do we improve our loyalty by x per I mean
+1:03:56 | it was poorly written but you get the idea it was some kind of loyalty question like we want to understand and be able to improve loyalty um and
+1:04:04 | actually the the why why what they were really trying to get at with with one of
+1:04:10 | them is I had a boss um his name is Sean Williams Sean and he used to be at
+1:04:15 | Gallup and he went to Sun truus and then he went back to Gallup and he was one of my favorite bosses and he came up with
+1:04:21 | this idea from an article that he read and it it's explain that um external
+1:04:28 | conditions have more impact on someone's loyalty to a brand than that actual
+1:04:34 | brand like what what do you mean how can that be and so it was proposing the
+1:04:42 | authors were proposing that if the economy is good then customers are going
+1:04:50 | to be more loyal in general in general and so we said why don't we test this so
+1:04:56 | that was the real why is it was really about how much impact do external
+1:05:02 | conditions have relative to everything else we're trying to do on Customer Loyalty super interesting question so um
+1:05:11 | during the analytic framing part now that we have a business problem we have to figure out like all right well how
+1:05:17 | are we going to do this well we first have to Define what is
+1:05:22 | loyalty there's a ton of literature if you go to Google Scholar and say how do you measure loyalty there's a ton of
+1:05:28 | literature about how to measure loyalty but generally speaking um it's cognitive
+1:05:33 | which is behavioral cognitive which is knowledge-based and affective which is
+1:05:40 | emotional so like you might say oh I just love my bank I just had such you know I just love everything about them
+1:05:46 | you know I love the logo I love the brand I love what they're about
+1:05:51 | um cognitive is like oh I know all the senior leaders at my EV like I I know
+1:05:57 | all about them what year they were founded what cities they're in how many branches they have like that's cognitive
+1:06:02 | loyalty and then cognitive means you keep branching you keep banking with them you go into the branch you engage
+1:06:08 | in self-service you're you're very engaged you keep you know putting money into them and you keep using that debit
+1:06:15 | card or whatever so there were multiple ways to measure loyalty and we boil down to four
+1:06:22 | that was tough we boil it down to four through lots of PCA and Factor scoring
+1:06:28 | we came up with four um Dimensions or four factors that fed into the Loyalty
+1:06:35 | construct um so then we had to figure out well what are the things that drive loyalty and what are the inputs and
+1:06:41 | where we going to get those variables and so we looked at Google Scholar and we found all these things that tend to drive loyalty and also including our
+1:06:49 | hypothesis of external conditions it turned out that some of the big
+1:06:56 | macroeconomic factors that tell the health of a community like housing
+1:07:02 | starts birth rate those kinds of things employment rate those did have an impact
+1:07:09 | on loyalty way more than we thought which was um a little bit irritating for
+1:07:14 | the senior leaders of this of this particular uh organization
+1:07:19 | because they kept trying to bend over backwards and interact you know with the
+1:07:24 | customers in a way to get them to become more loyal but in reality they have no control over it or very little you know
+1:07:31 | a lot of it had to do with just during good times people are loyal to their Bank period right so that's more about
+1:07:37 | the results but the analytic framing part was coming up with like when we say loyalty this how we're
+1:07:44 | going to measure it these variables and this is how we're going to look at you know here the input I mean you got to
+1:07:51 | figure all the drivers all the potential relationships you haven't tested yet
+1:07:56 | that's in a later phase but in the analytic stage you should have an idea of now that I have the business problem
+1:08:02 | of trying to improve loyalty and figure out what drives it and also know how much impact external conditions have now
+1:08:09 | do you know that now this is where the way I like to say it is this is where the rubber hits the road when it comes to the actual business problem you're
+1:08:15 | trying to solve that's the best way to remember it is analytic framing is where the rubber hits the road to say like
+1:08:21 | okay well you say you want to solve this how are you potentially going to do it so um kind of put your money where your
+1:08:28 | mouth is um this would be an exercise but um
+1:08:33 | you don't seem to be into my exercises I'm gonna skip this one but I hope that
+1:08:39 | you guys have a decent um a decent analytic frame uh framing for the
+1:08:45 | problems that you're going to be working on all right uh number four which is uh
+1:08:54 | one of the uh one of the three hardest I mean um Bill you probably have a way better
+1:09:01 | sense than I do but from feedback that I've gotten this is these are the three
+1:09:06 | that people really struggle with is business problem analytic Framing and um
+1:09:11 | methodology or approach um so I wanted to cover this one and give you kind of
+1:09:16 | some um some tips on it okay so this one has to do with um
+1:09:23 | identifying how are you going to anal it you know so you have a problem you've put up you've come up with like what am
+1:09:30 | I going to measure what kind of stuff do I need um but now it's like well how am I going to analyze it so you have to
+1:09:36 | identify the available problem solving approaches and methods and unfortunately
+1:09:43 | this is where there's a lot of people don't have enough Tools in their toolkit um I've been very fortunate that I can
+1:09:49 | run about eight different models really really well you know I can do um clust
+1:09:55 | like it's nobody's business uh obviously regression I'm really good at PCA and factor I can do a structural equation
+1:10:02 | model like it's nobody's business um and then a couple others you know Markov
+1:10:08 | chain mon Carlo I can get by um but a lot of people don't have the luxury of
+1:10:13 | that many you know I started it's like 30 years for me and I've done some of these by hand so I don't have to just
+1:10:20 | trust the blackbox I actually know you know I actually know what's in there um
+1:10:25 | and the math behind it and the stats and all that and the theory um so it's challenging though if you don't have a
+1:10:32 | lot of tools you know available to you um so here's my suggestion is if
+1:10:39 | you're trying to figure out what is the right analytics method like what's the
+1:10:45 | right um I'm gonna say yeah method what's the right method to use I want to
+1:10:51 | make sure I'm using the right the same terminology um to analyze data the first
+1:10:57 | thing I would do is look at the broad purpose are you trying to
+1:11:03 | describe or predict and with prediction I'm going to say explanation to describe predict or
+1:11:12 | explain or prescribe so that's first is first think about the broad purpose
+1:11:20 | describe predict or explain and prescribe those are the three big
+1:11:26 | picture broad purposes
+1:11:31 | second um okay so there are different categories of techniques and this this
+1:11:36 | is not an you know fully inclusive if you read Joe Hara Jr's um book
+1:11:42 | multivariate data analysis at the at the in the preface he talks about there are technically hundreds of analytical
+1:11:50 | methods that you can choose from hundreds um I know like seven you know really well and I'm familiar with about
+1:11:56 | two dozen but um it's hard to this is definitely not all inclusive but at
+1:12:03 | least gives you some ideas just to give you a framework um so second once you
+1:12:08 | know am I trying to describe predict or explain or prescribe well there are
+1:12:14 | different categories of techniques under each of those
+1:12:19 | so let's look at um predictive the predictor explain you have forecasting
+1:12:26 | simulation and regression to give three examples okay so I think it's going to
+1:12:31 | be sort of predictive and now I think I'm G to forecast I know that forecasting simulation regression are
+1:12:36 | under there so that the third stage is what's the most likely single method
+1:12:44 | well I'm not really trying to forecast I'm not really trying to simulate I'm
+1:12:49 | probably more likely to use regression and if that's the case if that one's going to fit the best now
+1:12:56 | you've got it narrowed down to logistic linear stepwise like whatever different
+1:13:02 | regression methods I think there's a ridge regression that's really good um and so if you follow this especially if
+1:13:10 | you're thinking about taking the exam which I hope all of y'all will consider taking the cap exam um this is the way
+1:13:17 | to do it and I don't know what my score was but I think I did okay because I
+1:13:23 | actually skipped like 17 questions and forgot to come back to them and I still
+1:13:28 | managed to pass so I think I kind of sort of know how to take the test um but
+1:13:34 | this is what I did is I used the tree effect to say um what's there what's the
+1:13:39 | big broad purpose under that broad purpose what are some methods big picture methods and then under those
+1:13:46 | methods what are the sort of smaller single method if you can do it by category and then by subgroup and then
+1:13:53 | by individual method then you can usually come up with a good
+1:14:00 | method so um maybe y'all will do this one I'm really hoping for some
+1:14:07 | engagement here um so let's take this problem statement um help us understand
+1:14:15 | how to better Target volunteers to work for this nonprofit okay that's very
+1:14:22 | Broad and it's not very well written but hopefully you at least understand the concept how do we better Target
+1:14:30 | volunteers to work for this nonprofit so think about that for just a minute and
+1:14:36 | then in one minute I'm going to come back and um and uh let's talk about how
+1:14:42 | you might Analyze That is that a segmentation thing is that a predictive
+1:14:47 | thing is that an explanatory model is that a decision tree like think about different methods and you have one
+1:14:54 | minute to come up with some
+1:15:23 | ideas e
+1:15:57 | oh something is in the chat oh good yay some people are saying
+1:16:03 | things I'm so excited thank you guys okay um classification possibly a decision
+1:16:11 | tree using historical data so you might say um what kind of employee or not
+1:16:17 | employees but volunteers have we had uh work in this nonprofit in the past and
+1:16:23 | so you could use the decision tree to kind of look at some of the attributes you know do they tend to be more
+1:16:29 | students are they retired setx do they um do they have a specific interest like
+1:16:34 | I'm thinking of Wellspring in particular um for those of y'all that are into the
+1:16:40 | um anti-human trafficking efforts human trafficking is really tricky like I
+1:16:46 | don't know how we're ever going to solve it it's one of the wicked problems There community is facing that I'm actually hoping AI can help with but um
+1:16:52 | Wellspring living um they take donated clothes and they give them to women and girls that are
+1:16:59 | recovering from former um human trafficking and they oftentimes have a
+1:17:04 | difficult time trying to find volunteers to work in the store they don't have enough funding to pay like actual
+1:17:10 | salaries because they want to focus all their Sal all their all their funds on helping these people recover so um they
+1:17:19 | will um sometimes get only the older retired set and they're trying to figure
+1:17:25 | out like how do I get the younger people because younger employees or Volunteers
+1:17:31 | in this case usually mean um younger
+1:17:36 | customers and if that's the case then those customers are going to be more impacted and they're going to be able to
+1:17:42 | learn more about the nonprofit and help other people they know get out of
+1:17:48 | recovery like get into the recovery part U so they're trying to focus on that as opposed to um sort of the older sex so
+1:17:55 | yes decision trees could definitely work um classification oh I like this one if
+1:18:02 | you have data like thousand people reacted to our Outreach and of those 20 | 1:18:07 | volunteers we could calculate probability of a person given the parameters of the Outreach yep so you
+1:18:14 | can look at this um a classification model you can look at the attributes of
+1:18:20 | the person you can look at the method and the and the phrase of the reach out like I did something
+1:18:27 | like this with um a church and they were trying to figure out why are people not opening our emails and how do we get
+1:18:33 | them more engaged and so I did some research on the value of personalization for email messaging and we tried it and
+1:18:40 | it worked like it increased the openings like 3x at least may have been higher
+1:18:45 | than that so yeah you could look at that sort of thing
+1:18:51 | um any other ideas about the type of method that you might use both of those
+1:18:58 | are good examples classification decision tree you could even use segmentation uh you could use a
+1:19:04 | predictive model to identify the factors of the volunteers or um you know there
+1:19:11 | there's not one right answer take again
+1:19:17 | okay cool okay and then um the last part I
+1:19:23 | want to mention about about the the whole cap thing including you know the
+1:19:28 | job task analysis that we've been talking about the domains it's it's sort of inherent throughout the different
+1:19:35 | steps but it's not called out specifically is um the critical sof
+1:19:41 | skills that you have to have for analytics professionals the ability to
+1:19:46 | communicate and um I've had people come to me with their decks and say why are
+1:19:51 | they not listening like look I did all this great stuff created this wonderful model why are they not listening it's
+1:19:58 | because you didn't instill trust you know you have no trust from them um they don't feel that you know anything about
+1:20:03 | their business like a lot of times you can have a great model that nobody will
+1:20:09 | listen to so it's not just about how it's you can't expect a perfect model to
+1:20:17 | create an environment where people are just going to want to operationalize it that's not it it it it comes it has
+1:20:24 | that's table step almost has to be a really good valuable model for sure but it can't just be about the model it has
+1:20:30 | to be about the relationship too so understanding the background of the
+1:20:36 | client nonprofit employer whoever the stakeholder is that's providing the business problem in the data you have to
+1:20:43 | understand more about where their life is um to be able to communicate and instill that trust and explain those
+1:20:51 | findings in a way that is um on par with their language now there's there's
+1:20:58 | one group of people in the business world that I can't stand their language and that's s people I hate how they talk
+1:21:04 | it drives me insane I just I'm not a I'm not a sales person at all I'm like anti- and they say things like go to
+1:21:12 | market you know or um pipeline like what's in the pipeline and Prospects and
+1:21:18 | and I just I just I don't I don't like sales right but when I'm I'm running a
+1:21:26 | project an internal project right now about the sales teams and how to make them improve and so we're looking at
+1:21:32 | factors related to the salesperson as well as um the particular prospect that
+1:21:37 | we're working with or the type of deal that we're trying to arrange and so we're analyzing all this data and I have
+1:21:43 | to use their language you know you have to make sure that you explain things in a way that are in a way that makes sense
+1:21:49 | to them and that are achieving what goal they're trying to achieve so it's
+1:21:55 | difficult because we want to we want to talk about the steps of our process and and oh I created this cool new metric
+1:22:02 | and I found this you know chel doll that has to do with literacy rate and
+1:22:07 | readability of this text and um I created this new metric and this fun model and blah blah blah and I
+1:22:14 | transformed this data they don't care they just want the answers in a way that makes sense to
+1:22:19 | them I know that's hard to believe but it's true um so I have another exercise in
+1:22:26 | here but um again y'all are being a little bit a little bit hesitant on my
+1:22:32 | exercises so um I'll cover them and hopefully you'll I hope that you'll like
+1:22:38 | be home brushing your teeth and you're thinking about these questions okay so your stakeholder says I want a
+1:22:47 | dashboard um to help me understand this concept and you're conv convinced that
+1:22:53 | really they're problem cannot be solved with a dashboard it has to you know it has to be um something else and you
+1:23:01 | actually think it needs to be neuron Nets like you can't solve this without neuron Nets right so you got to figure
+1:23:07 | out how to explain this you have to have the EQ to under to to tell them like no
+1:23:12 | you can't have that you can't say no you can't have that you can't say it like that you got to figure it
+1:23:18 | out another one um you've been asked you've been tasked with understanding
+1:23:23 | customer experience yet they only give you sales data from a key client this is
+1:23:29 | so like I had this happen where they said we want to understand customer experience they gave us a bunch of sales
+1:23:34 | data like what that's not what so we have to figure out how to say to them
+1:23:42 | like dude we need different data um number three internal stakeholder
+1:23:48 | says it isn't enough to know the drivers of influence or sales decline we need to
+1:23:53 | know causes oh oh here we go y'all we need to know causes I gotta increase i s
+1:24:01 | the next quarter I need to know exactly what's happening um and so you got to explain like the whole cause and effect
+1:24:07 | thing you have to design an experiment to truly get cause and effect as I hope that you guys know that's why we don't
+1:24:14 | use words like cause very lightly that's why we say impact or drive or determine
+1:24:22 | or influence we say those kind words we don't say pause unless we run an
+1:24:29 | experiment and experiments are very difficult and very rare in
+1:24:34 | fact in my 33e career I've run a total of two
+1:24:41 | experiments one was part of my dissertation
+1:24:55 | pardon me why cough okay so are there any
+1:25:02 | ideas about how you would explain to somebody who thinks they want a
+1:25:10 | dashboard that you need more than that anything in the
+1:25:19 | chat oh good point clustering is also possible on that last one yeah
+1:25:25 | sells overpromise and underperform low hanging fruit but how
+1:25:31 | do you say how do you say a dashboard ain't
+1:25:38 | gonna cut
+1:25:45 | it these are the things like EQ phising working with the client these
+1:25:51 | are the things that will double your pay y'all that's why I'm covering them also
+1:25:57 | once you do well in your project but these will do things like double your
+1:26:03 | salary um so one way would be I like to someone asked me this um earlier this
+1:26:09 | week actually I like to kind of use outside resources you know like I hear
+1:26:15 | you and that's a good method for many things um however if you look at you
+1:26:20 | know this use case a public publicly available use case from Up or whatever some competitor or a similar type of
+1:26:27 | company if you look at this use case they used the dashboard initially but then they went beyond that and did this
+1:26:33 | this and this and so I think we should do something similar because you're able to get more details so I like to blame
+1:26:40 | it on like blame it on the outside you know well that's that's great the best
+1:26:45 | practices shows this you know um let's
+1:26:52 | see number two um you want to understand customer experience yet they're only
+1:26:57 | providing you with sales data this is where you have to have a conversation about data literacy you know just like
+1:27:03 | not all data is good for different types of subjects like sales data is a very
+1:27:09 | core data set but with customer experience we probably need to include
+1:27:14 | data like blah blah blah blah blah you know would it be too difficult to get that and so those are the ways you kind
+1:27:21 | of phrase these um this one where the internal stakeholder
+1:27:26 | says it's not good enough I don't want to know what you know potentially making my sales go down I need to know exactly
+1:27:34 | and this is where you have to explain about um the these are not deterministic
+1:27:40 | these are predictive and um you can get an idea of what's Happening unless you
+1:27:47 | were to change the world and you can isolate your effects um usually you can
+1:27:53 | only get to a certain level but it's still incredibly useful so I've had to had this conversation numerous times
+1:28:00 | even now but we're in a better place today than we than we have been in the past so that's always
+1:28:05 | good we can probably clarify if we only want to understand the key clients experience versus all of our clients as
+1:28:12 | a whole which points the question back at them yes that's definitely the
+1:28:19 | case uh this is a good one too there's not enough data to accurately display on this dashboard more analysis is needed
+1:28:25 | to convey the message through the dashboard just saying like um that yeah
+1:28:30 | okay we can get you the the dang dashboard fil in but we got to have we got to do some analysis first to even
+1:28:37 | have the ability to show you what you need to see so that's a good point
+1:28:43 | um yeah it's it's a it's a tough it can be tough for sure especially um
+1:28:50 | depending on how you're organized as a as a company when you when you in this situation sometimes they're paying your
+1:28:56 | salary and you're like I don't want to tell you no okay so lastly um common
+1:29:04 | pitfalls where do people mess up when it comes to the seven domains of the cap
+1:29:10 | the cap where do people tend to mess up I've already given you some hints they start with the data they want to jump
+1:29:19 | right in to the data don't you do that
+1:29:24 | no don't jump right into the data as soon as you jump right into the data and
+1:29:29 | try to start analyzing in fact I even tell my teams like close your laptop just close it and I don't like closing
+1:29:36 | my laptop it makes me anxiety driven but don't start with the data that is a that is a big Pitfall
+1:29:45 | because what happens is um you will never hear or see that question the same
+1:29:51 | way again because once you see the data it creates in your head um limitations
+1:29:59 | you know the guard rails and it also creates a bias to say like oh well if I
+1:30:05 | got if I put some bananas and vanilla
+1:30:11 | oat milk ice cream Scoops and chocolate syrup in front of me I'm gonna be like
+1:30:16 | oh well let's make a Sunday you know but I didn't want a Sunday I was looking for something else but you put that in front
+1:30:22 | of me that's I'm going to think Sunday right so if you see the data before you understand the business problem then
+1:30:29 | you're going to you're going to bias yourself into thinking that the problem is something that it's
+1:30:34 | not does that I hope that makes sense okay so number one biggest Pitfall is
+1:30:41 | people that start with the data knock it I should do a giant Circle flash with these
+1:30:47 | images number two um not enough techniques so if
+1:30:54 | everything like everything if you only have a hammer everything looks like a nail but
+1:31:00 | sometimes you don't have a nail you have something else you gotta figure out how to get that in the wood right like it's you got to have enough um broad ideas
+1:31:09 | and techniques that you're not limiting yourself and shoving a square peg in a
+1:31:15 | round hole right so that's the second biggest problem that people tend to have when looking at the JTA the and the
+1:31:22 | domains is they don't have enough like techniques at least conceptually um in their head so even if
+1:31:30 | you don't have the experience with them to at least have the idea that there are other techniques um that incredibly
+1:31:36 | helpful so that's the second biggest problem that I see when people are trying to um use the domains to apply to
+1:31:44 | direct projects and number
+1:31:50 | three over engineering if you're not familiar with this term um it's called
+1:31:56 | aam's razor and there's different ways that people spell it but I think the correct way is in the
+1:32:04 | chat so aam's Razer says you should use the simplest method that will actually
+1:32:12 | answer the question possible don't use a simple method that's not going to answer the question but use the absolute
+1:32:19 | simplest meth method method that will answer the question and that's atin
+1:32:24 | raser it's a very good principle um we as data scientists and analytics
+1:32:30 | professionals love to over engineer because we are trying to do cool stuff
+1:32:38 | and we're trying to instead of answering the actual question we're trying to impress other people and so I don't know
+1:32:45 | why we over engineer things you know um so that's the third biggest Pitfall some
+1:32:52 | of the most useful um analytics solutions that I've seen
+1:32:58 | have been pretty simple pretty simple um so don't you know don't do these things
+1:33:04 | over engineering big problem um starting with the data is the biggest not enough
+1:33:09 | methods is also um problem so I hope this has been helpful
+1:33:15 | um a few final suggestions uh this is team Hoy if you're not I think it's called Hoy if you're not familiar with
+1:33:21 | them um this guy right here um can't walk but he want he loves marathons he
+1:33:28 | loves doing the races he loves being in them so he's got the heart and his dad has a body to take him and do these
+1:33:35 | things he wouldn't do it without his son and his son couldn't do it without his dad and so I'm trying to say don't go it
+1:33:41 | alone right like don't go It Alone create your squad have have a squad um
+1:33:49 | so if you decide you do want to actually earn the cap designation get the study
+1:33:56 | guide check out the resources um take Bill's class um just commit to like X
+1:34:03 | number minutes per day set a timer 20 minutes a day four days a week set a timer um and then say by this date I'm
+1:34:10 | gonna take it you know go and sign up for it even if it's a year and a half out or however long you can make it and
+1:34:16 | remember you can retake it it's not the end of the world if you don't you know and visualize your success you know but
+1:34:21 | definitely don't go It Alone so here's the road map um Good Luck this
+1:34:28 | is the link to your quiz which I would take sooner rather than later because um
+1:34:34 | some of the quiz questions are pretty hard um so good luck with you with your
+1:34:39 | journey again Beverly right I'm on uh LinkedIn as
+1:34:45 | pacap and thanks for letting me share with you guys I hope that this session has been useful
