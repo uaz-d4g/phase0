@@ -9,6 +9,7 @@ D4G competition weeks run from **Saturday to Friday**, with deliverables typical
 Links to live Zoom meetings, recorded videos, and quizzes are located in their respective folders in this repository. Additional training materials are available in the [D4G Playlist](https://learning.oreilly.com/playlists/cd21a7c9-e5a3-4e71-80c3-c9d10a0457ee) on O'Reilly Media. Log in with your UA email address via SSO.
 
 ## Table of Requirements and Deliverables
+
 | # | Due Date | Requirement: Deliverable | Individual Points | Team Points* | Percent of Total |
 |:-:|:-------------:|:-----------|-----------:|---------:|-----:|
 | 0 | 09/27/2024 | [Infrastructure Setup: None](https://github.com/uaz-d4g/phase0/tree/0aee962febda73cd3d567092a8223ddde27fe2d6/0_setup) | 0 | 0 | 0% |
