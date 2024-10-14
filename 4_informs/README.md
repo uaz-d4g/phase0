@@ -18,7 +18,7 @@ Edit this file and put a 'x' by your name and date completed.
 - [ ] Ajeet. Completed on {date}
 - [ ] Julian. Completed on {date}
 - [ ] Makim. Completed on {date}
-- [ ] Mike. Completed on {date}
+- [x] Mike. Completed on 10/13/2024
 
 ### Team 2:  Data Cats
 - [ ] Bruce. Completed on {date}
