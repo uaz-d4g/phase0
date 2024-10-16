@@ -2523,20 +2523,22 @@ Which type of machine learning is this?
 
 **Type:** PA
 
-**Stem:**
+**Stem:** Which type of machine learning algorithm assigns items to a set of predefined categories?
 
 **Answer Choices:**
 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [x] classification
+- [ ] clustering
+- [ ] regression
+- [ ] unsupervised
 
-**Explanation:**
+**Explanation:** Classification algorithms are used to predict a predefined category to which an input value belongs. Regression algorithms are used to predict numeric values. Clustering algorithms group data points that have similar characteristics. Unsupervised learning is a category of learning algorithms that includes clustering, but not regression or classification.
 
 **Source(s):**
 
-- []()
+- [Fundamentals of machine learning - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/fundamentals-machine-learning/)
+- [What are classification models? - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/understand-classification-machine-learning/2-what-is-classification)
+- [What is clustering? - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/train-evaluate-cluster-models/2-what-is-clustering)
 
 ---
 
