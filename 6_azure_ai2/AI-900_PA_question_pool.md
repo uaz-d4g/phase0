@@ -1,10 +1,180 @@
 # Practice Assessment Question Pool for Exam AI-900
 
+## Learning Objectives
+
+- Describe Artificial Intelligence workloads and considerations
+- Describe fundamental principles of machine learning on Azure
+- Describe features of computer vision workloads on Azure
+- Describe features of Natural Language Processing (NLP) workloads on Azure
+- Describe features of generative AI workloads on Azure
+
+## Learning Paths
+
+Outline Format
+
+[Collection](#)
+
+0. [Learning Path](#)
+  0.1. [Module](#)
+    0.1.1. [Unit](#)
+
+[Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/collections/zopanqdn7w1p1?wt.mc_id=fsi_data4good_webinar_wwl_training)
+
+1. [AI Overview](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/?wt.mc_id=fsi_data4good_webinar_wwl_training)
+  1.1. [Fundamental AI Concepts](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/)
+    1.1.01. [Introduction to AI](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/1-introduction)
+    1.1.02. [Understand machine learning](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/2-understand-machine-learn)
+    1.1.03. [Understand computer vision](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/3-understand-computer-vision)
+    1.1.04. [Understand natural language processing](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/4-understand-natural-language-process)
+    1.1.05. [Understand document intelligence and knowledge mining](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/5-document-intelligence-knowledge-mining)
+    1.1.06. [Understand generative AI](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/6-understand-generative-ai)
+    1.1.07. [Challenges and risks with AI](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/7-challenges-with-ai)
+    1.1.08. [Understand Responsible AI](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/8a-understand-responsible-ai)
+    1.1.09. [Knowledge check](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/8b-knowledge-check)
+    1.1.10. [Summary](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/9-summary)
+  1.2. [Fundamentals of machine learning](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/)
+    1.2.01. [Introduction](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/1-introduction)
+    1.2.02. [What is machine learning?](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/2-what-is-machine-learning)
+    1.2.03. [Types of machine learning](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/3-types-of-machine-learning)
+    1.2.04. [Regression](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/4-regression)
+    1.2.05. [Binary classification](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/5-binary-classification)
+    1.2.06. [Multiclass classification](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/6-multiclass-classification)
+    1.2.07. [Clustering](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/7-clustering)
+    1.2.08. [Deep learning](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/8-deep-learning)
+    1.2.09. [Azure Machine Learning](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/9-azure-machine-learning)
+    1.2.10. [Exercise - Explore Automated Machine Learning in Azure Machine Learning](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/10-exercise-auto-ml)
+    1.2.11. [Knowledge check](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/11-knowledge-check)
+    1.2.12. [Summary](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/12-summary)
+  1.3. [Fundamentals of Azure AI services](https://learn.microsoft.com/en-us/training/modules/fundamentals-azure-ai-services/)
+    1.3.01. [Introduction](https://learn.microsoft.com/en-us/training/modules/fundamentals-azure-ai-services/1-introduction)
+    1.3.02. [AI services on the Azure platform](https://learn.microsoft.com/en-us/training/modules/fundamentals-azure-ai-services/2-what-are-ai-services)
+    1.3.03. [Create Azure AI service resources](https://learn.microsoft.com/en-us/training/modules/fundamentals-azure-ai-services/2-what-are-ai-services)
+    1.3.04. [Use Azure AI services](https://learn.microsoft.com/en-us/training/modules/fundamentals-azure-ai-services/4-use-azure-ai-service)
+    1.3.05. [Understand authentication for Azure AI services](https://learn.microsoft.com/en-us/training/modules/fundamentals-azure-ai-services/5-understand-authentication)
+    1.3.06. [Exercise - Explore Azure AI Services](https://learn.microsoft.com/en-us/training/modules/fundamentals-azure-ai-services/6-exercise)
+    1.3.07. [Knowledge check](https://learn.microsoft.com/en-us/training/modules/fundamentals-azure-ai-services/7-knowledge-check)
+    1.3.08. [Summary](https://learn.microsoft.com/en-us/training/modules/fundamentals-azure-ai-services/8-summary)
+2. [Computer Vision](https://learn.microsoft.com/en-us/training/paths/explore-computer-vision-microsoft-azure/?wt.mc_id=fsi_data4good_webinar_wwl_training)
+  2.1. [Fundamentals of Computer Vision](https://learn.microsoft.com/en-us/training/modules/analyze-images-computer-vision/)
+    2.1.01. [Introduction](https://learn.microsoft.com/en-us/training/modules/analyze-images-computer-vision/1-introduction)
+    2.1.02. [Images and image processing](https://learn.microsoft.com/en-us/training/modules/analyze-images-computer-vision/2-understand-computer-vision)
+    2.1.03. [Machine learning for computer vision](https://learn.microsoft.com/en-us/training/modules/analyze-images-computer-vision/2b-computer-vision-models)
+    2.1.04. [Azure AI Vision](https://learn.microsoft.com/en-us/training/modules/analyze-images-computer-vision/3-image-analysis-azure)
+    2.1.05. [Exercise - Analyze images in Vision Studio](https://learn.microsoft.com/en-us/training/modules/analyze-images-computer-vision/4-exercise)
+    2.1.06. [Knowledge check](https://learn.microsoft.com/en-us/training/modules/analyze-images-computer-vision/5-knowledge-check)
+    2.1.07. [Summary](https://learn.microsoft.com/en-us/training/modules/analyze-images-computer-vision/6-summary)
+  2.2. [Fundamentals of Facial Recognition](https://learn.microsoft.com/en-us/training/modules/analyze-images-computer-vision/)
+    2.2.01. [Introduction](https://learn.microsoft.com/en-us/training/modules/detect-analyze-faces/1-introduction)
+    2.2.02. [Understand facial analysis](https://learn.microsoft.com/en-us/training/modules/detect-analyze-faces/2-what-is-face-analysis)
+    2.2.03. [Get started with facial analysis on Azure](https://learn.microsoft.com/en-us/training/modules/detect-analyze-faces/3-face-analysis-azure)
+    2.2.04. [Exercise - Detect faces in Vision Studio](https://learn.microsoft.com/en-us/training/modules/detect-analyze-faces/3-face-analysis-azure)
+    2.2.05. [Knowledge check](https://learn.microsoft.com/en-us/training/modules/detect-analyze-faces/5-knowledge-check)
+    2.2.06. [Summary](https://learn.microsoft.com/en-us/training/modules/detect-analyze-faces/6-summary)
+  2.3. [Fundamentals of optical character recognition](https://learn.microsoft.com/en-us/training/modules/read-text-computer-vision/)
+    2.3.01. [Introduction]()
+    2.3.02. [Get started with Azure AI Vision](https://learn.microsoft.com/en-us/training/modules/read-text-computer-vision/1-introduction)
+    2.3.03. [Get started with Vision Studio on Azure](https://learn.microsoft.com/en-us/training/modules/read-text-computer-vision/2-ocr-azure)
+    2.3.04. [Exercise - Read text in Vision Studio](https://learn.microsoft.com/en-us/training/modules/read-text-computer-vision/4-read-text-computer-vision)
+    2.3.05. [Knowledge check](https://learn.microsoft.com/en-us/training/modules/read-text-computer-vision/5-knowledge-check)
+    2.3.06. [Summary](https://learn.microsoft.com/en-us/training/modules/read-text-computer-vision/6-summary)
+
+3. [Document Intelligence and Knowledge Mining](https://learn.microsoft.com/en-us/training/paths/document-intelligence-knowledge-mining/?wt.mc_id=fsi_data4good_webinar_wwl_training)
+  3.1. [Fundamentals of Azure AI Document Intelligence](https://learn.microsoft.com/en-us/training/modules/analyze-receipts-form-recognizer/)
+    3.1.01. [Introduction](https://learn.microsoft.com/en-us/training/modules/analyze-receipts-form-recognizer/1-introduction)
+    3.1.02. [Explore capabilities of document intelligence](https://learn.microsoft.com/en-us/training/modules/analyze-receipts-form-recognizer/2-document-intelligence-capabilities)
+    3.1.03. [Understand Azure AI Document Intelligence capabilities](https://learn.microsoft.com/en-us/training/modules/analyze-receipts-form-recognizer/3-azure-document-intelligence)
+    3.1.04. [Exercise - Extract form data in Document Intelligence Studio](https://learn.microsoft.com/en-us/training/modules/analyze-receipts-form-recognizer/4-exercise)
+    3.1.05. [Knowledge Check](https://learn.microsoft.com/en-us/training/modules/analyze-receipts-form-recognizer/5-knowledge-check)
+    3.1.06. [Summary](https://learn.microsoft.com/en-us/training/modules/analyze-receipts-form-recognizer/6-summary)
+  3.2. [Fundamentals of Knowledge Mining and Azure AI Search](https://learn.microsoft.com/en-us/training/modules/analyze-receipts-form-recognizer/)
+    3.2.01. [Introduction](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/1-introduction)
+    3.2.02. [What is Azure AI Search?](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/2-what-is-azure-search)
+    3.2.03. [Identify elements of a search solution](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/3-process)
+    3.2.04. [Create an index in the Azure portal](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/5-start-with-portal)
+    3.2.05. [Query data in an Azure AI Search index](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/6-query-data-in-an-azure-search-index)
+    3.2.06. [Exercise - Explore an Azure AI Search index (UI)](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/7-exercise)
+    3.2.07. [Knowledge Check](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/8-knowledge-check)
+    3.2.08. [Summary](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/9-summary)
+4. [Natural Language Processing](https://learn.microsoft.com/en-us/training/paths/explore-natural-language-processing/?wt.mc_id=fsi_data4good_webinar_wwl_training&ns-enrollment-type=Collection&ns-enrollment-id=zopanqdn7w1p1)
+  4.1. [Fundamentals of Text Analysis with the Language Service](https://learn.microsoft.com/en-us/training/modules/analyze-text-with-text-analytics-service/)
+    4.1.01. [Introduction](https://learn.microsoft.com/en-us/training/modules/analyze-text-with-text-analytics-service/1-introduction)
+    4.1.02. [Understand Text Analytics](https://learn.microsoft.com/en-us/training/modules/analyze-text-with-text-analytics-service/2-understand-text-analytics)
+    4.1.03. [Get started with text analysis](https://learn.microsoft.com/en-us/training/modules/analyze-text-with-text-analytics-service/3-get-started-azure)
+    4.1.04. [Exercise - Analyze text with Language Studio](https://learn.microsoft.com/en-us/training/modules/analyze-text-with-text-analytics-service/4-exercise)
+    4.1.05. [Knowledge Check](https://learn.microsoft.com/en-us/training/modules/analyze-text-with-text-analytics-service/5-knowledge-check)
+    4.1.06. [Summary](https://learn.microsoft.com/en-us/training/modules/analyze-text-with-text-analytics-service/6-summary)
+  4.2. [Fundamentals of question answering with the Language Service](https://learn.microsoft.com/en-us/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/)
+    4.2.01. [Introduction](https://learn.microsoft.com/en-us/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/1-introduction)
+    4.2.02. [Understand question answering](https://learn.microsoft.com/en-us/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/2-understand-question-answering)
+    4.2.03. [Get started with custom question answering](https://learn.microsoft.com/en-us/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/3-get-started-knowledge-base)
+    4.2.04. [Exercise - Use question answering with Language Studio](https://learn.microsoft.com/en-us/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/3-get-started-knowledge-base)
+    4.2.05. [Knowledge Check](https://learn.microsoft.com/en-us/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/5-knowledge-check)
+    4.2.06. [Summary](https://learn.microsoft.com/en-us/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/6-summary)
+  4.3. [Fundamentals of conversational language understanding](https://learn.microsoft.com/en-us/training/modules/create-language-model-with-language-understanding/)
+    4.3.01. [Introduction](https://learn.microsoft.com/en-us/training/modules/create-language-model-with-language-understanding/1-introduction)
+    4.3.02. [Describe conversational language understanding](https://learn.microsoft.com/en-us/training/modules/create-language-model-with-language-understanding/3-get-started)
+    4.3.03. [Get started with conversational language understanding in Azure](https://learn.microsoft.com/en-us/training/modules/create-language-model-with-language-understanding/3-get-started)
+    4.3.04. [Exercise - Use Conversational Language Understanding with Language Studio](https://learn.microsoft.com/en-us/training/modules/create-language-model-with-language-understanding/4-exercise-create-language-understanding-application)
+    4.3.05. [Knowledge Check](https://learn.microsoft.com/en-us/training/modules/create-language-model-with-language-understanding/5-knowledge-check)
+    4.3.06. [Summary](https://learn.microsoft.com/en-us/training/modules/create-language-model-with-language-understanding/6-summary)
+  4.4. [Fundamentals of Azure AI Speech](https://learn.microsoft.com/en-us/training/modules/recognize-synthesize-speech/)
+    4.4.01. [Introduction](https://learn.microsoft.com/en-us/training/modules/recognize-synthesize-speech/1-introduction)
+    4.4.02. [Understand speech recognition and synthesis](Understand speech recognition and synthesis)
+    4.4.03. [Get started with speech on Azure](https://learn.microsoft.com/en-us/training/modules/recognize-synthesize-speech/3-get-started-azure)
+    4.4.04. [Exercise - Explore Speech Studio](https://learn.microsoft.com/en-us/training/modules/recognize-synthesize-speech/4-exercise-transcribe-speech-use-azure)
+    4.4.05. [Knowledge Check](https://learn.microsoft.com/en-us/training/modules/recognize-synthesize-speech/5-knowledge-check)
+    4.4.06. [Summary](https://learn.microsoft.com/en-us/training/modules/recognize-synthesize-speech/6-summary)
+  4.5. [Fundamentals of language translation](https://learn.microsoft.com/en-us/training/modules/translate-text-with-translation-service/)
+    4.5.01. [Introduction](https://learn.microsoft.com/en-us/training/modules/translate-text-with-translation-service/1-introduction)
+    4.5.02. [Understand translation concepts](https://learn.microsoft.com/en-us/training/modules/translate-text-with-translation-service/1a-translation)
+    4.5.03. [Understand translation in Azure](https://learn.microsoft.com/en-us/training/modules/translate-text-with-translation-service/1b-use-azure-translation)
+    4.5.04. [Get started with translation in Azure](https://learn.microsoft.com/en-us/training/modules/translate-text-with-translation-service/2-get-started-azure)
+    4.5.05. [Exercise - Explore Azure AI Translator](https://learn.microsoft.com/en-us/training/modules/translate-text-with-translation-service/3-exercise-translate-text-use-azure)
+    4.5.06. [Knowledge Check](https://learn.microsoft.com/en-us/training/modules/translate-text-with-translation-service/3a-knowledge-check)
+    4.5.07. [Summary](https://learn.microsoft.com/en-us/training/modules/translate-text-with-translation-service/4-summary)
+5. [Generative AI](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/?wt.mc_id=fsi_data4good_webinar_wwl_training&ns-enrollment-type=Collection&ns-enrollment-id=zopanqdn7w1p1)
+  5.1. [Fundamentals of Generative AI](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/)
+    5.1.01. [Introduction](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/1-introduction)
+    5.1.02. [What is generative AI?](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/2-what-is-generative-ai)
+    5.1.03. [What are language models?](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/3-language%20models)
+    5.1.04. [Using language models](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/4-azure-openai)
+    5.1.05. [What are copilots?](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/5-copilots)
+    5.1.06. [Microsoft Copilot](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/5a-microsoft-copilot)
+    5.1.07. [Considerations for Copilot prompts](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/6-writing-prompts)
+    5.1.08. [Extending and developing copilots](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/6a-building-custom-copilots)
+    5.1.09. [Exercise - Explore Microsoft Copilot](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/7-exercise)
+    5.1.10. [Knowledge Check](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/8-knowledge-check)
+    5.1.11. [Summary](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/9-summary)
+  5.2. [Introduction to Azure AI Studio](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-ai-studio/)
+    5.2.01. [Introduction](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-ai-studio/1-introduction)
+    5.2.02. [What is Azure AI Studio?](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-ai-studio/2-what-is-ai-studio)
+    5.2.03. [How does Azure AI Studio work](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-ai-studio/4-when-to-use-ai-studio)
+    5.2.04. [When to use Azure AI Studio](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-ai-studio/4-when-to-use-ai-studio)
+    5.2.05. [Exercise - Explore Azure AI Studio](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-ai-studio/4-when-to-use-ai-studio)
+    5.2.06. [Knowledge Check](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-ai-studio/6-knowledge-check)
+    5.2.07. [Summary](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-ai-studio/7-summary)
+  5.3. [Responsible generative AI](https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/)
+    5.3.01. [Introduction](https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/1-introduction)
+    5.3.02. [Plan a responsible generative AI solution](https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/2-plan-responsible-ai)
+    5.3.03. [Identify potential harms](https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/3-identify-harms)
+    5.3.04. [Measure potential harms](https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/4-measure-harms)
+    5.3.05. [Mitigate potential harms](https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/5-mitigate-harms)
+    5.3.06. [Operate a responsible generative AI solution](https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/6-operate-responsibly)
+    5.3.07. [Exercise - Explore content filters in Azure AI Studio](https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/7-exercise-content-filters)
+    5.3.08. [Knowledge Check](https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/8-knowledge-check)
+    5.3.09. [Summary](https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/9-summary)
+
 ## Question Pool
 
 ---
 
-**Question:** Which three sources can be used to generate questions and answers for a knowledge base? Each correct answer presents a complete solution.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which three sources can be used to generate questions and answers for a knowledge base? Each correct answer presents a complete solution.
+
+**Answer Choices:**
 
 - [x] a webpage
 - [ ] an audio file
@@ -20,7 +190,13 @@
 
 ---
 
-**Question:** At which layer can you apply content filters to suppress prompts and responses for a responsible generative AI solution?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** At which layer can you apply content filters to suppress prompts and responses for a responsible generative AI solution?
+
+**Answer Choices:**
 
 - [ ] Metaprompt and grounding
 - [ ] Model
@@ -35,7 +211,13 @@
 
 ---
 
-**Question:** [Answer choice] can return responses, such as natural language, images, or code, based on natural language input.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** [Answer choice] can return responses, such as natural language, images, or code, based on natural language input.
+
+**Answer Choices:**
 
 - [ ] Computer vision
 - [ ] Deep learning
@@ -51,7 +233,13 @@
 
 ---
 
-**Question:** Select the answer that correctly completes the sentence. [Answer choice] can be used to identify constraints and styles for the responses of a generative AI model.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Select the answer that correctly completes the sentence. [Answer choice] can be used to identify constraints and styles for the responses of a generative AI model.
+
+**Answer Choices:**
 
 - [ ] Data grounding
 - [ ] Embeddings
@@ -66,7 +254,13 @@
 
 ---
 
-**Question:** Which two capabilities are examples of a GPT model? Each correct answer presents a complete solution.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which two capabilities are examples of a GPT model? Each correct answer presents a complete solution.
+
+**Answer Choices:**
 
 - [x] Create natural language
 - [ ] Detect specific dialects of a language
@@ -82,7 +276,13 @@
 
 ---
 
-**Question:** Which three capabilities are examples of image generation features for a generative AI model? Each correct answer presents a complete solution.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which three capabilities are examples of image generation features for a generative AI model? Each correct answer presents a complete solution.
+
+**Answer Choices:**
 
 - [ ] Animation of static images
 - [x] Creating variations of an image
@@ -98,7 +298,13 @@
 
 ---
 
-**Question:** You plan to develop an image processing solution that will use DALL-E as a generative AI model. Which capability is NOT supported by the DALL-E model?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** You plan to develop an image processing solution that will use DALL-E as a generative AI model. Which capability is NOT supported by the DALL-E model?
+
+**Answer Choices:**
 
 - [x] Image description
 - [ ] Image editing
@@ -113,7 +319,13 @@
 
 ---
 
-**Question:** Which generative AI model is used to generate images based on natural language prompts?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which generative AI model is used to generate images based on natural language prompts?
+
+**Answer Choices:**
 
 - [x] DALL-E
 - [ ] Embeddings
@@ -129,7 +341,13 @@
 
 ---
 
-**Question:** [Answer choice] can search, classify, and compare sources of text for similarity.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** [Answer choice] can search, classify, and compare sources of text for similarity.
+
+**Answer Choices:**
 
 - [ ] Data grounding
 - [x] Embeddings
@@ -144,7 +362,13 @@
 
 ---
 
-**Question:** Which natural language processing (NLP) workload is used to generate closed caption text for live presentations?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which natural language processing (NLP) workload is used to generate closed caption text for live presentations?
+
+**Answer Choices:**
 
 - [x] Azure AI Speech
 - [ ] Conversational language understanding (CLU)
@@ -159,7 +383,13 @@
 
 ---
 
-**Question:** Which type of artificial intelligence (AI) workload provides the ability to classify individual pixels in an image depending on the object that they represent?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which type of artificial intelligence (AI) workload provides the ability to classify individual pixels in an image depending on the object that they represent?
+
+**Answer Choices:**
 
 - [ ] Image analysis
 - [ ] Image classification
@@ -174,7 +404,13 @@
 
 ---
 
-**Question:** Which type of artificial intelligence (AI) workload has the primary purpose of making large amounts of data searchable?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which type of artificial intelligence (AI) workload has the primary purpose of making large amounts of data searchable?
+
+**Answer Choices:**
 
 - [ ] Image analysis
 - [x] Knowledge mining
@@ -189,7 +425,13 @@
 
 ---
 
-**Question:** Which artificial intelligence (AI) workload scenario is an example of natural language processing (NLP)?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which artificial intelligence (AI) workload scenario is an example of natural language processing (NLP)?
+
+**Answer Choices:**
 
 - [x] Extracting key phrases from a business insights report
 - [ ] Identifying objects in landscape images
@@ -204,7 +446,13 @@
 
 ---
 
-**Question:** Which two artificial intelligence (AI) workload scenarios are examples of natural language processing (NLP)? Each correct answer presents a complete solution.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which two artificial intelligence (AI) workload scenarios are examples of natural language processing (NLP)? Each correct answer presents a complete solution.
+
+**Answer Choices:**
 
 - [ ] Extracting handwritten text from online images
 - [ ] Generating tags and descriptions for images
@@ -220,7 +468,13 @@
 
 ---
 
-**Question:** In a regression machine learning algorithm, how are features and labels handled in a validation dataset?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** In a regression machine learning algorithm, how are features and labels handled in a validation dataset?
+
+**Answer Choices:**
 
 - [ ] Features are compared to the feature values in a training dataset.
 - [x] Features are used to generate predictions for the label, which is compared to the actual label values.
@@ -235,7 +489,13 @@
 
 ---
 
-**Question:** Which feature makes regression an example of supervised machine learning?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which feature makes regression an example of supervised machine learning?
+
+**Answer Choices:**
 
 - [x] use of historical data with known label values to train a model
 - [ ] use of historical data with unknown label values to train a model
@@ -251,7 +511,13 @@
 
 ---
 
-**Question:** A bank is developing a new artificial intelligence (AI) system to support the process of accepting or rejecting mortgage applications. Which two issues should be considered as part of the responsible AI principle of fairness to avoid biased decision making? Each correct answer presents part of the solution.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** A bank is developing a new artificial intelligence (AI) system to support the process of accepting or rejecting mortgage applications. Which two issues should be considered as part of the responsible AI principle of fairness to avoid biased decision making? Each correct answer presents part of the solution.
+
+**Answer Choices:**
 
 - [ ] Credit utilization
 - [ ] Current salary
@@ -267,7 +533,13 @@
 
 ---
 
-**Question:** Which two principles of responsible artificial intelligence (AI) are most important when designing an AI system to manage healthcare data? Each correct answer presents part of the solution.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which two principles of responsible artificial intelligence (AI) are most important when designing an AI system to manage healthcare data? Each correct answer presents part of the solution.
+
+**Answer Choices:**
 
 - [x] Accountability
 - [ ] Fairness
@@ -282,7 +554,13 @@
 
 ---
 
-**Question:** Which principle of responsible artificial intelligence (AI) ensures that an AI system meets any legal and ethical standards it must abide by?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which principle of responsible artificial intelligence (AI) ensures that an AI system meets any legal and ethical standards it must abide by?
+
+**Answer Choices:**
 
 - [x] Accountability
 - [ ] Fairness
@@ -298,7 +576,13 @@
 
 ---
 
-**Question:** Which artificial intelligence (AI) technique serves as the foundation for modern image classification solutions?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which artificial intelligence (AI) technique serves as the foundation for modern image classification solutions?
+
+**Answer Choices:**
 
 - [ ] semantic segmentation
 - [x] deep learning
@@ -314,7 +598,13 @@
 
 ---
 
-**Question:** Which computer vision service provides bounding coordinates as part of its output?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which computer vision service provides bounding coordinates as part of its output?
+
+**Answer Choices:**
 
 - [ ] Image analysis
 - [ ] Image classification
@@ -330,7 +620,13 @@
 
 ---
 
-**Question:** Which process allows you to use optical character recognition (OCR)?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which process allows you to use optical character recognition (OCR)?
+
+**Answer Choices:**
 
 - [x] Digitizing medical records
 - [ ] Identifying access control for a laptop
@@ -345,7 +641,13 @@
 
 ---
 
-**Question:** Which process allows you to use object detection?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which process allows you to use object detection?
+
+**Answer Choices:**
 
 - [ ] Analyzing sentiment around news articles
 - [ ] Extracting text from manuscripts
@@ -360,7 +662,13 @@
 
 ---
 
-**Question:** Which feature of computer vision involves associating an image with metadata that summarizes the attributes of the image?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which feature of computer vision involves associating an image with metadata that summarizes the attributes of the image?
+
+**Answer Choices:**
 
 - [ ] Categorizing
 - [ ] Content organization
@@ -375,7 +683,13 @@
 
 ---
 
-**Question:** Which analytical task of the Azure AI Vision service returns bounding box coordinates?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which analytical task of the Azure AI Vision service returns bounding box coordinates?
+
+**Answer Choices:**
 
 - [ ] Image categorization
 - [x] Object detection
@@ -390,7 +704,13 @@
 
 ---
 
-**Question:** Which two specialized domain models are supported by using the Azure AI Vision service? Each correct answer presents a complete solution.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which two specialized domain models are supported by using the Azure AI Vision service? Each correct answer presents a complete solution.
+
+**Answer Choices:**
 
 - [ ] Animals
 - [ ] Cars
@@ -406,7 +726,13 @@
 
 ---
 
-**Question:** Which additional piece of information is included with each phrase returned by an image description task of the Azure AI Vision?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which additional piece of information is included with each phrase returned by an image description task of the Azure AI Vision?
+
+**Answer Choices:**
 
 - [ ] Bounding box coordinates
 - [x] Confidence score
@@ -421,7 +747,13 @@
 
 ---
 
-**Question:** When using the Face Detect API of the Azure AI Face service, which feature helps identify whether a human face has glasses or headwear?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** When using the Face Detect API of the Azure AI Face service, which feature helps identify whether a human face has glasses or headwear?
+
+**Answer Choices:**
 
 - [x] Face attributes
 - [ ] Face ID
@@ -437,7 +769,13 @@
 
 ---
 
-**Question:** Which service can you use to train an image classification model?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which service can you use to train an image classification model?
+
+**Answer Choices:**
 
 - [ ] Azure AI Vision
 - [x] Azure AI Custom Vision
@@ -453,7 +791,13 @@
 
 ---
 
-**Question:** You need to identify numerical values that represent the probability of humans developing diabetes based on age and body fat percentage. Which type of machine learning model should you use?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** You need to identify numerical values that represent the probability of humans developing diabetes based on age and body fat percentage. Which type of machine learning model should you use?
+
+**Answer Choices:**
 
 - [ ] Hierarchical clustering
 - [ ] Linear regression
@@ -469,7 +813,13 @@
 
 ---
 
-**Question:** Predicting rainfall for a specific geographical location is an example of which type of machine learning?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Predicting rainfall for a specific geographical location is an example of which type of machine learning?
+
+**Answer Choices:**
 
 - [ ] Classification
 - [ ] Clustering
@@ -484,7 +834,13 @@
 
 ---
 
-**Question:** A company deploys an online marketing campaign to social media platforms for a new product launch. The company wants to use machine learning to measure the sentiment of users on the Twitter platform who made posts in response to the campaign. Which type of machine learning is this?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** A company deploys an online marketing campaign to social media platforms for a new product launch. The company wants to use machine learning to measure the sentiment of users on the Twitter platform who made posts in response to the campaign. Which type of machine learning is this?
+
+**Answer Choices:**
 
 - [x] Classification
 - [ ] Clustering
@@ -499,7 +855,13 @@
 
 ---
 
-**Question:** A retailer wants to group together online shoppers that have similar attributes to enable its marketing team to create targeted marketing campaigns for new product launches. Which type of machine learning is this?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** A retailer wants to group together online shoppers that have similar attributes to enable its marketing team to create targeted marketing campaigns for new product launches. Which type of machine learning is this?
+
+**Answer Choices:**
 
 - [ ] classification
 - [x] clustering
@@ -514,7 +876,13 @@
 
 ---
 
-**Question:** In a regression machine learning algorithm, how are features and labels handled in a validation dataset?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** In a regression machine learning algorithm, how are features and labels handled in a validation dataset?
+
+**Answer Choices:**
 
 - [ ] Features are compared to the feature values in a training dataset
 - [x] Features are used to generate predictions for the label, which is compared to the actual label values
@@ -529,7 +897,13 @@
 
 ---
 
-**Question:** Which feature makes regression an example of supervised machine learning?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which feature makes regression an example of supervised machine learning?
+
+**Answer Choices:**
 
 - [x] use of historical data with known label values to train a model
 - [ ] use of historical data with unknown label values to train a model
@@ -545,7 +919,13 @@
 
 ---
 
-**Question:** In a regression machine learning algorithm, what are the characteristics of features and labels in a validation dataset?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** In a regression machine learning algorithm, what are the characteristics of features and labels in a validation dataset?
+
+**Answer Choices:**
 
 - [x] known feature and label values
 - [ ] known feature values and unknown label values
@@ -560,9 +940,18 @@
 
 ---
 
-**Question:** In a regression machine learning algorithm, what are the characteristics of features and labels in a training dataset?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** In a regression machine learning algorithm, what are the characteristics of features and labels in a training dataset?
+
+**Answer Choices:**
 
 - [x] known feature and label values
+- [ ] known feature values and unknown label values
+- [ ] unknown feature and label values
+- [ ] unknown feature values and known label values
 
 **Explanation:** In a regression machine learning algorithm, a training set contains known feature and label values.
 
@@ -572,7 +961,13 @@
 
 ---
 
-**Question:** What is the purpose of a validation dataset used for as part of the development of a machine learning model?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** What is the purpose of a validation dataset used for as part of the development of a machine learning model?
+
+**Answer Choices:**
 
 - [ ] cleaning missing data
 - [x] evaluating the trained model
@@ -587,7 +982,13 @@
 
 ---
 
-**Question:** You need to use Azure Machine Learning to train a regression model. What should you create in Machine Learning studio?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** You need to use Azure Machine Learning to train a regression model. What should you create in Machine Learning studio?
+
+**Answer Choices:**
 
 - [x] a job
 - [ ] a workspace
@@ -602,7 +1003,13 @@
 
 ---
 
-**Question:** Which three supervised machine learning models can you train by using automated machine learning (automated ML) in the Azure Machine Learning studio? Each correct answer presents a complete solution.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which three supervised machine learning models can you train by using automated machine learning (automated ML) in the Azure Machine Learning studio? Each correct answer presents a complete solution.
+
+**Answer Choices:**
 
 - [x] Classification
 - [ ] Clustering
@@ -618,7 +1025,13 @@
 
 ---
 
-**Question:** Which machine learning algorithm module in the Azure Machine Learning designer is used to train a model?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which machine learning algorithm module in the Azure Machine Learning designer is used to train a model?
+
+**Answer Choices:**
 
 - [ ] Clean Missing Data
 - [ ] Evaluate Model
@@ -633,7 +1046,13 @@
 
 ---
 
-**Question:** Which natural language processing (NLP) technique assigns values to words such as plant and flower, so that they are considered closer to each other than a word such as airplane?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which natural language processing (NLP) technique assigns values to words such as plant and flower, so that they are considered closer to each other than a word such as airplane?
+
+**Answer Choices:**
 
 - [ ] frequency analysis
 - [ ] lemmatization
@@ -648,7 +1067,13 @@
 
 ---
 
-**Question:** What is the first step in the statistical analysis of terms in a text in the context of natural language processing (NLP)?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** What is the first step in the statistical analysis of terms in a text in the context of natural language processing (NLP)?
+
+**Answer Choices:**
 
 - [ ] creating a vectorized model
 - [x] removing stop words
@@ -663,7 +1088,13 @@
 
 ---
 
-**Question:** Which two Azure AI Services features can be used to enable both text-to-text and speech-to-text between multiple languages? Each correct answer presents part of the solution.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which two Azure AI Services features can be used to enable both text-to-text and speech-to-text between multiple languages? Each correct answer presents part of the solution.
+
+**Answer Choices:**
 
 - [ ] Conversational Language Understanding
 - [ ] key phrase extraction
@@ -680,7 +1111,13 @@
 
 ---
 
-**Question:** Which two features of Azure AI Services allow you to identify issues from support question data, as well as identify any people and products that are mentioned? Each correct answer presents part of the solution.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which two features of Azure AI Services allow you to identify issues from support question data, as well as identify any people and products that are mentioned? Each correct answer presents part of the solution.
+
+**Answer Choices:**
 
 - [ ] Azure AI Bot Service
 - [ ] Conversational Language Understanding
@@ -698,7 +1135,13 @@
 
 ---
 
-**Question:** Which Azure AI Service for Language feature allows you to analyze written articles to extract information and concepts, such as people and locations, for classification purposes?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which Azure AI Service for Language feature allows you to analyze written articles to extract information and concepts, such as people and locations, for classification purposes?
+
+**Answer Choices:**
 
 - [ ] Azure AI Content Moderator
 - [ ] key phrase extraction
@@ -714,7 +1157,13 @@
 
 ---
 
-**Question:** Which feature of the Azure AI Language service includes functionality that returns links to external websites to disambiguate terms identified in a text?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which feature of the Azure AI Language service includes functionality that returns links to external websites to disambiguate terms identified in a text?
+
+**Answer Choices:**
 
 - [x] entity recognition
 - [ ] key phrase extraction
@@ -729,7 +1178,13 @@
 
 ---
 
-**Question:** Which Azure resource provides direct access to both Azure AI Translator and Azure AI Speech services through a single endpoint and authentication key?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which Azure resource provides direct access to both Azure AI Translator and Azure AI Speech services through a single endpoint and authentication key?
+
+**Answer Choices:**
 
 - [ ] Azure AI Bot Service
 - [x] Azure AI Services
@@ -744,7 +1199,13 @@
 
 ---
 
-**Question:** Which three features are elements of the Azure AI Speech service? Each correct answer presents a complete solution.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which three features are elements of the Azure AI Speech service? Each correct answer presents a complete solution.
+
+**Answer Choices:**
 
 - [ ] document translation
 - [x] language identification
@@ -761,8 +1222,14 @@
 
 ---
 
-**Question:** [Answer choice] can search, classify, and compare sources of text for similarity.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** [Answer choice] can search, classify, and compare sources of text for similarity.
 Select the answer that correctly completes the sentence.
+
+**Answer Choices:**
 
 - [x] Embeddings
 
@@ -774,7 +1241,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Which principle of responsible artificial intelligence (AI) raises awareness about the limitations of AI-based solutions?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which principle of responsible artificial intelligence (AI) raises awareness about the limitations of AI-based solutions?
+
+**Answer Choices:**
 
 - [ ] accountability
 - [ ] privacy and security
@@ -790,7 +1263,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Which principle of responsible artificial intelligence (AI) defines the framework of governance and organization principles that meet ethical and legal standards of AI solutions?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which principle of responsible artificial intelligence (AI) defines the framework of governance and organization principles that meet ethical and legal standards of AI solutions?
+
+**Answer Choices:**
 
 - [x] accountability
 
@@ -802,7 +1281,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Select the answer that correctly completes the sentence. [Answer choice] use plugins to provide end users with the ability to get help with common tasks from a generative AI model.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Select the answer that correctly completes the sentence. [Answer choice] use plugins to provide end users with the ability to get help with common tasks from a generative AI model.
+
+**Answer Choices:**
 
 - [x] Copilots
 - [ ] Language Understanding solutions
@@ -817,7 +1302,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** As per the NIST AI Risk Management Framework, what is the first stage to consider when developing a responsible generative AI solution?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** As per the NIST AI Risk Management Framework, what is the first stage to consider when developing a responsible generative AI solution?
+
+**Answer Choices:**
 
 - [x] Identify potential harms.
 - [ ] Measure the presence of potential harms.
@@ -832,7 +1323,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Which artificial intelligence (AI) technique should be used to extract the name of a store from a photograph displaying the store front?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which artificial intelligence (AI) technique should be used to extract the name of a store from a photograph displaying the store front?
+
+**Answer Choices:**
 
 - [ ] image classification
 - [ ] natural language processing (NLP)
@@ -847,7 +1344,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Which computer vision solution provides the ability to identify a person's age based on a photograph?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which computer vision solution provides the ability to identify a person's age based on a photograph?
+
+**Answer Choices:**
 
 - [x] facial detection
 - [ ] image classification
@@ -863,7 +1366,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** You have a set of images. Each image shows multiple vehicles. What allows you to identity different vehicle types in the same traffic monitoring image??
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** You have a set of images. Each image shows multiple vehicles. What allows you to identity different vehicle types in the same traffic monitoring image??
+
+**Answer Choices:**
 
 - [ ] image classification
 - [ ] linear regression
@@ -878,7 +1387,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** What can be used for an attendance system that can scan handwritten signatures?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** What can be used for an attendance system that can scan handwritten signatures?
+
+**Answer Choices:**
 
 - [ ] face detection
 - [ ] image classification
@@ -893,7 +1408,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Which two prebuilt models allow you to use the Azure AI Document Intelligence service to scan information from international passports and sales accounts? Each correct answer presents part of the solution.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which two prebuilt models allow you to use the Azure AI Document Intelligence service to scan information from international passports and sales accounts? Each correct answer presents part of the solution.
+
+**Answer Choices:**
 
 - [ ] business card model
 - [x] ID document model
@@ -910,7 +1431,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Which two Azure AI Document Intelligence models include identifying common data fields as part of its data extraction capabilities? Each correct answer presents a complete solution.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which two Azure AI Document Intelligence models include identifying common data fields as part of its data extraction capabilities? Each correct answer presents a complete solution.
+
+**Answer Choices:**
 
 - [x] business card model
 - [ ] general document model
@@ -927,7 +1454,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** When using the Azure AI Face service, what should you use to perform one-to-many or one-to-one face matching? Each correct answer presents a complete solution.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** When using the Azure AI Face service, what should you use to perform one-to-many or one-to-one face matching? Each correct answer presents a complete solution.
+
+**Answer Choices:**
 
 - [ ] Custom Vision
 - [ ] face attributes
@@ -944,7 +1477,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Which type of artificial intelligence (AI) workload provides the ability to generate bounding boxes that identify the locations of different types of vehicles in an image?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which type of artificial intelligence (AI) workload provides the ability to generate bounding boxes that identify the locations of different types of vehicles in an image?
+
+**Answer Choices:**
 
 - [ ] image analysis
 - [ ] image classification
@@ -959,7 +1498,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Which AI service can be integrated into chat applications and generate content in the form of text?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which AI service can be integrated into chat applications and generate content in the form of text?
+
+**Answer Choices:**
 
 - [ ] Azure AI Language
 - [ ] Azure AI Metrics Advisor
@@ -974,7 +1519,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Which principle of responsible artificial intelligence (AI) involves evaluating and mitigating the bias introduced by the features of a model?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which principle of responsible artificial intelligence (AI) involves evaluating and mitigating the bias introduced by the features of a model?
+
+**Answer Choices:**
 
 - [ ] accountability
 - [x] fairness
@@ -989,7 +1540,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Which type machine learning algorithm predicts a numeric label associated with an item based on that item’s features?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which type machine learning algorithm predicts a numeric label associated with an item based on that item’s features?
+
+**Answer Choices:**
 
 - [ ] classification
 - [ ] clustering
@@ -1006,7 +1563,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** You plan to use machine learning to predict the probability of humans developing diabetes based on their age and body fat percentage. What should the model include?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** You plan to use machine learning to predict the probability of humans developing diabetes based on their age and body fat percentage. What should the model include?
+
+**Answer Choices:**
 
 - [ ] three features
 - [ ] three labels
@@ -1021,7 +1584,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Which assumption of the multiple linear regression model should be satisfied to avoid misleading predictions?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which assumption of the multiple linear regression model should be satisfied to avoid misleading predictions?
+
+**Answer Choices:**
 
 - [ ] Features are dependent on each other.
 - [ ] Features are independent of each other.
@@ -1036,8 +1605,14 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** A company is using machine learning to predict house prices based on appropriate house attributes. For the machine learning model, which attribute is the label?
+**Path:** TBD
 
+**Type:** PA
+
+**Stem:** A company is using machine learning to predict house prices based on appropriate house attributes. For the machine learning model, which attribute is the label?
+
+
+**Answer Choices:**
 
 - [ ] age of the house
 - [ ] floor space size
@@ -1052,7 +1627,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** You need to use the Azure Machine Learning designer to deploy a predictive service from a newly trained model. What should you do first in the Machine Learning designer?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** You need to use the Azure Machine Learning designer to deploy a predictive service from a newly trained model. What should you do first in the Machine Learning designer?
+
+**Answer Choices:**
 
 - [ ] Add a dataset.
 - [ ] Add training modules.
@@ -1067,7 +1648,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Which three data transformation modules are in the Azure Machine Learning designer?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which three data transformation modules are in the Azure Machine Learning designer?
+
+**Answer Choices:**
 
 - [x] Clean Missing Data
 - [ ] Model Evaluate Model
@@ -1083,7 +1670,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** For which two scenarios is the Universal Language Model used by the speech-to-text API optimized? Each correct answer presents a complete solution.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** For which two scenarios is the Universal Language Model used by the speech-to-text API optimized? Each correct answer presents a complete solution.
+
+**Answer Choices:**
 
 - [ ] acoustic
 - [x] conversational
@@ -1099,7 +1692,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Which type of translation does the Azure AI Translator service support?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which type of translation does the Azure AI Translator service support?
+
+**Answer Choices:**
 
 - [ ] speech-to-speech
 - [ ] speech-to-text
@@ -1114,7 +1713,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Which feature of the Azure AI Translator service is available only to Custom Translator?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which feature of the Azure AI Translator service is available only to Custom Translator?
+
+**Answer Choices:**
 
 - [ ] document translation
 - [x] model training with a dictionary
@@ -1130,7 +1735,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** When using the Azure AI Service for Language, what should you use to provide further information online about entities extracted from a text?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** When using the Azure AI Service for Language, what should you use to provide further information online about entities extracted from a text?
+
+**Answer Choices:**
 
 - [x] entity linking
 - [ ] key phrase extraction
@@ -1146,7 +1757,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Which feature of the Azure AI Speech service can identify distinct user voices?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which feature of the Azure AI Speech service can identify distinct user voices?
+
+**Answer Choices:**
 
 - [ ] language identification
 - [x] speech recognition
@@ -1162,7 +1779,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Which two specialized domain models are supported by Azure AI Vision when categorizing an image? Each correct answer presents a complete solution.
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which two specialized domain models are supported by Azure AI Vision when categorizing an image? Each correct answer presents a complete solution.
+
+**Answer Choices:**
 
 - [x] celebrities
 - [ ] image types
@@ -1178,7 +1801,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** You are exploring solutions to improve the document search and indexing service for employees. You need an artificial intelligence (AI) search solution that will include searching text in various types of documents, such as images. Which type of AI workload is this?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** You are exploring solutions to improve the document search and indexing service for employees. You need an artificial intelligence (AI) search solution that will include searching text in various types of documents, such as images. Which type of AI workload is this?
+
+**Answer Choices:**
 
 - [ ] semantic segmentation
 - [ ] computer vision
@@ -1193,7 +1822,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** A company is currently developing driverless agriculture vehicles to help harvest crops. The vehicles will be deployed alongside people working in the crop fields, and as such, the company will need to carry out robust testing. Which principle of responsible artificial intelligence (AI) is most important in this case?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** A company is currently developing driverless agriculture vehicles to help harvest crops. The vehicles will be deployed alongside people working in the crop fields, and as such, the company will need to carry out robust testing. Which principle of responsible artificial intelligence (AI) is most important in this case?
+
+**Answer Choices:**
 
 - [ ] accountability
 - [ ] inclusiveness
@@ -1208,7 +1843,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Which type of machine learning algorithm finds the optimal way to split a dataset into groups without relying on training and validating label predictions?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which type of machine learning algorithm finds the optimal way to split a dataset into groups without relying on training and validating label predictions?
+
+**Answer Choices:**
 
 - [ ] classification
 - [x] clustering
@@ -1225,7 +1866,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** A company wants to predict household water use based on the number of people in a house, the weather temperature, and the time of year. In terms of data labels and features, what is the label in this use case?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** A company wants to predict household water use based on the number of people in a house, the weather temperature, and the time of year. In terms of data labels and features, what is the label in this use case?
+
+**Answer Choices:**
 
 - [ ] number of people in the house
 - [ ] time of year
@@ -1240,7 +1887,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** You need to use the Azure Machine Learning designer to train a machine learning model. What should you do first in the Machine Learning designer?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** You need to use the Azure Machine Learning designer to train a machine learning model. What should you do first in the Machine Learning designer?
+
+**Answer Choices:**
 
 - [ ] Add a dataset.
 - [ ] Add training modules.
@@ -1255,7 +1908,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** You train a regression model by using automated machine learning (automated ML) in the Azure Machine Learning studio. You review the best model summary. You need to publish the model for others to use from the internet. What should you do next?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** You train a regression model by using automated machine learning (automated ML) in the Azure Machine Learning studio. You review the best model summary. You need to publish the model for others to use from the internet. What should you do next?
+
+**Answer Choices:**
 
 - [ ] Create a compute cluster.
 - [x] Deploy the model to an endpoint.
@@ -1271,7 +1930,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** Which natural language processing (NLP) technique normalizes words before counting them?
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which natural language processing (NLP) technique normalizes words before counting them?
+
+**Answer Choices:**
 
 - [ ] frequency analysis
 - [ ] N-grams
@@ -1286,7 +1951,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** You want to create a model to predict sales of ice cream based on historic data that includes daily ice cream sales totals and weather measurements. Which Azure service should you use?
+**Path:** 1. AI Overview
+
+**Type:** KC
+
+**Stem:** You want to create a model to predict sales of ice cream based on historic data that includes daily ice cream sales totals and weather measurements. Which Azure service should you use?
+
+**Answer Choices:**
 
 - [x] Azure Machine Learning
 - [ ] Azure AI Bot Service
@@ -1300,7 +1971,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** You work for a wildlife sanctuary and are considering using AI to identify bird species from images. Which AI service should you use to prototype your idea?
+**Path:** 1. AI Overview
+
+**Type:** KC
+
+**Stem:** You work for a wildlife sanctuary and are considering using AI to identify bird species from images. Which AI service should you use to prototype your idea?
+
+**Answer Choices:**
 
 - [x] Azure AI Vision
 - [ ] Azure AI Search
@@ -1314,7 +1991,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** A predictive app provides audio output for visually impaired users. Which principle of Responsible AI is reflected here?
+**Path:** 1. AI Overview
+
+**Type:** KC
+
+**Stem:** A predictive app provides audio output for visually impaired users. Which principle of Responsible AI is reflected here?
+
+**Answer Choices:**
 
 - [ ] Transparency
 - [x] Inclusiveness
@@ -1328,7 +2011,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** You want to create a model to predict the cost of heating an office building based on its size in square feet and the number of employees working there. What kind of machine learning problem is this?
+**Path:** 1. AI Overview
+
+**Type:** KC
+
+**Stem:** You want to create a model to predict the cost of heating an office building based on its size in square feet and the number of employees working there. What kind of machine learning problem is this?
+
+**Answer Choices:**
 
 - [x] Regression
 - [ ] Classification
@@ -1342,7 +2031,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** You need to evaluate a classification model. Which metric can you use?
+**Path:** 1. AI Overview
+
+**Type:** KC
+
+**Stem:** You need to evaluate a classification model. Which metric can you use?
+
+**Answer Choices:**
 
 - [ ] Mean squared error (MSE)
 - [x] Precision
@@ -1356,7 +2051,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** In deep learning, what is the purpose of a loss function?
+**Path:** 1. AI Overview
+
+**Type:** KC
+
+**Stem:** In deep learning, what is the purpose of a loss function?
+
+**Answer Choices:**
 
 - [ ] To remove data for which no known label values are provided
 - [x] To evaluate the aggregate difference between predicted and actual label values
@@ -1370,7 +2071,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:** What does automated machine learning in Azure Machine Learning enable you to do?
+**Path:** 1. AI Overview
+
+**Type:** KC
+
+**Stem:** What does automated machine learning in Azure Machine Learning enable you to do?
+
+**Answer Choices:**
 
 - [ ] Automatically deploy new versions of a model as they're trained
 - [ ] Automatically provision Azure Machine Learning workspaces for new data scientists in an organization
@@ -1384,7 +2091,441 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:**
+**Path:** 1. AI Overview
+
+**Type:** KC
+
+**Stem:** An application requires three separate AI services. To see the cost for each separately, what type of resource(s) should be created?
+
+**Answer Choices:**
+
+- [ ] A multi-service resource that includes all the AI services
+- [x] A single-service resource for each AI service
+- [ ] It's not possible to see costs for individual AI services
+
+**Explanation:** Create a single-service resource for each AI service to see costs separately for each resource. A multi-service resource bills the costs all together. It's possible to see costs separately for each AI service resource.
+
+**Source(s):**
+
+- [Fundamentals of Azure AI services - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/fundamentals-azure-ai-services/)
+
+---
+
+**Path:** 1. AI Overview
+
+**Type:** KC
+
+**Stem:** After logging into one of the individual Azure studios, what is one task to complete to begin using the studio?
+
+**Answer Choices:**
+
+- [ ] Input a key and endpoint into the studio
+- [ ] Customize the API request
+- [x] Associate a resource with the studio
+
+**Explanation:** To explore the capabilities of the service in the studio, you must first associate the resource with the studio. It's not necessary to authenticate the studio. You don't need to customize an API request to use the studio.
+
+**Source(s):**
+
+- [Fundamentals of Azure AI services - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/fundamentals-azure-ai-services/)
+
+---
+
+**Path:** 1. AI Overview
+
+**Type:** KC
+
+**Stem:** What is an Azure AI services resource?
+
+**Answer Choices:**
+
+- [x] A bundle of several AI services in one resource
+- [ ] An AI service to recognize faces
+- [ ] A single-service resource for Azure AI Search
+
+**Explanation:** An Azure AI services resource is a bundle of several AI services in one resource. The Azure AI Face resource is one of many Azure AI services. Azure AI Search is the single-service resource for Azure AI Search.
+
+**Source(s):**
+
+- [Fundamentals of Azure AI services - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/fundamentals-azure-ai-services/)
+
+---
+
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** You have a set of images. Each image shows one type of bone fracture. What allows you to identify bone fractures in different X-ray images?
+
+**Answer Choices:**
+
+- [ ] conversational artificial intelligence (AI)
+- [ ] facial detection
+- [x] image classification
+- [ ] object detection
+
+**Explanation:** Image classification is part of computer vision and can be used to evaluate images from an X-ray machine to quickly classify specific bone fracture types. This helps improve diagnosis and treatment plans. An image classification model is trained to facilitate the categorizing of the bone fractures. Object detection is used to return identified objects in an image, such as a cat, person, or chair. Conversational AI is used to create intelligent bots that can interact with people by using natural language. Facial detection is used to detect the location of human faces in an image.
+
+**Source(s):**
+
+- [Machine learning for computer vision - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-images-computer-vision/2b-computer-vision-models)
+
+---
+
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which type of service provides a platform for conversational artificial intelligence (AI)?
+
+**Answer Choices:**
+
+- [x] Azure AI Bot Service
+- [ ] Azure AI Document Intelligence
+- [ ] Azure AI Vision
+- [ ] Azure AI Translator
+
+**Explanation:** Azure AI Bot Service provide a platform for conversational artificial intelligence (AI), which designates the ability of software agents to participate in a conversation. Azure AI Translator is part of Natural language processing (NLP), but it does not serve as a platform for conversational AI. Azure AI Vision deals with image processing. Azure AI Document Intelligence extracts information from scanned forms and invoices.
+
+**Source(s):**
+
+- [Understand natural language processing - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/get-started-ai-fundamentals/5-understand-natural-language-process)
+
+---
+
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which principle of responsible artificial intelligence (AI) plays the primary role when implementing an AI solution that meet qualifications for business loan approvals?
+
+**Answer Choices:**
+
+- [ ] accountability
+- [x] fairness
+- [ ] inclusiveness
+- [ ] safety
+
+**Explanation:** Fairness is meant to ensure that AI models do not unintentionally incorporate a bias based on criteria such as gender or ethnicity. Transparency does not apply in this case since banks commonly use their proprietary models when processing loan approvals. Inclusiveness is also out of scope since not everyone is qualified for a loan. Safety is not a primary consideration since there is no direct threat to human life or health in this case.
+
+**Source(s):**
+
+- [Understand Responsible AI - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/get-started-ai-fundamentals/8-understand-responsible-ai)
+
+---
+
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which principle of responsible artificial intelligence (AI) is applied in the design of an AI system to ensure that users understand constraints and limitations of AI?
+
+**Answer Choices:**
+
+- [ ] fairness
+- [ ] inclusiveness
+- [ ] privacy and security
+- [x] transparency
+
+**Explanation:** The transparency principle states that AI systems must be designed in such a way that users are made fully aware of the purpose of the systems, how they work, and which limitations can be expected during use. The inclusiveness principle states that AI systems must empower people in a positive and engaging way. Fairness is applied to AI systems to ensure that users of the systems are treated fairly. The privacy and security principle are applied to the design of AI systems to ensure that the systems are secure and to respect user privacy.
+
+**Source(s):**
+
+- [Understand Responsible AI - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/get-started-ai-fundamentals/8-understand-responsible-ai)
+
+---
+
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** A company is using machine learning to predict various aspects of its e-scooter hire service dependent on weather. This includes predicting the number of hires, the average distance traveled, and the impact on e-scooter battery levels. For the machine learning model, which two attributes are the features? Each correct answer presents a complete solution.
+
+**Answer Choices:**
+
+- [ ] distance traveled
+- [ ] e-scooter battery levels
+- [ ] e-scooter hires
+- [x] weather temperature
+- [x] weekday or weekend
+
+**Explanation:** Weather temperature and weekday or weekend are features that provide a weather temperature for a given day and a value based on whether the day is on a weekend or weekday. These are input variables for the model to help predict the labels for e-scooter battery levels, number of hires, and distance traveled. E-scooter battery levels, number of hires, and distance traveled are numeric labels you are attempting to predict through the machine learning model.
+
+**Source(s):**
+
+- [Fundamentals of machine learning - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/fundamentals-machine-learning/)
+
+---
+
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** You need to create an automated machine learning (automated ML) model. Which resource should you create first in Azure Machine Learning studio?
+
+**Answer Choices:**
+
+- [x] a dataset
+- [ ] a workspace
+- [ ] an Azure container instance
+- [ ] an Azure Kubernetes Service (AKS) cluster
+
+**Explanation:** A dataset is required to create an automated machine learning (automated ML) run. A workspace must be created before you can access Machine Learning studio. An Azure container instance and an AKS cluster can be created as a deployment target, after training of a model is complete.
+
+**Source(s):**
+
+- [Fundamentals of machine learning - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/fundamentals-machine-learning/)
+
+---
+
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which Azure AI Service for Language feature can be used to analyze online user reviews to identify whether users view a product positively or negatively?
+
+**Answer Choices:**
+
+- [ ] key phrase extraction
+- [ ] language detection
+- [ ] named entity recognition
+- [x] sentiment analysis
+
+**Explanation:** Sentiment analysis provides sentiment labels, such as negative, neutral, and positive, based on a confidence score from text analysis. This makes it suitable for understanding user sentiment for product reviews. The named entity recognition, key phrase extraction, and language detection features cannot perform sentiment analysis for product reviews.
+
+**Source(s):**
+
+- [Analyze text with the Language service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-text-with-text-analytics-service/)
+- [What is sentiment analysis and opinion mining in Azure Cognitive Service for Language? - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/sentiment-opinion-mining/overview)
+
+---
+
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which three values are returned by the language detection feature of the Azure AI Language service in Azure?
+
+**Answer Choices:**
+
+- [ ] Bounding box coordinates
+- [x] ISO 6391 Code
+- [x] Language Name
+- [x] Score
+- [ ] Wikipedia URL
+
+**Explanation:** Language Name, ISO 6391 Code, and Score are three values returned by the Language service of natural language processing (NLP) in Azure. Bounding box coordinates are returned by the Azure AI Vision services in Azure. Wikipedia URL is one of potential values returned by entity linking of entity recognition.
+
+**Source(s):**
+
+- [Get started with text analysis - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-text-with-text-analytics-service/2-get-started-azure)
+
+---
+
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** What is the confidence score returned by the Azure AI Language detection service of natural language processing (NLP) for an unknown language name?
+
+**Answer Choices:**
+
+- [ ] 1
+- [ ] -1
+- [x] NaN
+- [ ] Unknown
+
+**Explanation:** NaN, or not a number, designates an unknown confidence score. Unknown is a value with which the NaN confidence score is associated. The score values range between 0 and 1, with 0 designating the lowest confidence score and 1 designating the highest confidence score.
+
+**Source(s):**
+
+- [Get started with text analysis - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-text-with-text-analytics-service/2-get-started-azure)
+
+---
+
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which three features are elements of the Azure AI Language Service? Each correct answer presents a complete solution.
+
+**Answer Choices:**
+
+- [ ] Azure AI Vision
+- [ ] Azure AI Content Moderator
+- [x] Entity Linking
+- [x] Personally Identifiable Information (PII) detection
+- [x] Sentiment analysis
+
+**Explanation:** Entity Linking, PII detection, and sentiment analysis are all elements of the Azure AI Service for Azure AI Language. Azure AI Vision deals with image processing. Azure AI Content Moderator is an Azure AI Services service that is used to check text, image, and video content for material that is potentially offensive.
+
+**Source(s):**
+
+- [What is Azure Cognitive Service for Language - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/overview)
+- [Microsoft Azure AI Fundamentals: Explore natural language processing - Training | Microsoft Learn](https://learn.microsoft.com/training/paths/explore-natural-language-processing/)
+
+---
+
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which type of machine learning algorithm groups observations is based on the similarities of features?
+
+**Answer Choices:**
+
+- [ ] classification
+- [x] clustering
+- [ ] regression
+- [ ] supervised
+
+**Explanation:** Clustering algorithms group data points that have similar characteristics. Regression algorithms are used to predict numeric values. Classification algorithms are used to predict a predefined category to which an input value belongs. Supervised learning is a category of learning algorithms that includes regression and classification, but not clustering.
+
+**Source(s):**
+
+- [Fundamentals of machine learning - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/fundamentals-machine-learning/)
+- [What are classification models? - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/understand-classification-machine-learning/2-what-is-classification)
+- [What is clustering? - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/train-evaluate-cluster-models/2-what-is-clustering)
+
+---
+
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** An electricity utility company wants to develop a mobile app for its customers to monitor their energy use and to display their predicted energy use for the next 12 months. The company wants to use machine learning to provide a reasonably accurate prediction of future energy use by using the customers’ previous energy-use data.
+
+Which type of machine learning is this?
+
+**Answer Choices:**
+
+- [ ] classification
+- [ ] clustering
+- [x] regression
+- [ ] supervised
+
+**Explanation:** Regression is a machine learning scenario that is used to predict numeric values. In this example, regression will be able to predict future energy consumption based on analyzing historical time-series energy data based on factors, such as seasonal weather and holiday periods. Multiclass classification is used to predict categories of data. Clustering analyzes unlabeled data to find similarities present in the data. Classification is used to predict categories of data.
+
+**Source(s):**
+
+- [Regression - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/fundamentals-machine-learning/4-regression)
+
+---
+
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** What is an unsupervised machine learning algorithm module for training models in the Azure Machine Learning designer?
+
+**Answer Choices:**
+
+- [ ] Classification
+- [x] K-Means Clustering
+- [ ] Linear Regression
+- [ ] Normalize Data
+
+**Explanation:** K-means clustering is an unsupervised machine learning algorithm component used for training clustering models. You can use unlabeled data with this algorithm. Linear regression and classification are supervised machine learning algorithm components. You need labeled data to use these algorithms. Normalize Data is not a machine learning algorithm module.
+
+**Source(s):**
+
+- [Clustering - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/fundamentals-machine-learning/7-clustering)
+
+---
+
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which three parts of the machine learning process does the Azure AI Vision eliminate the need for? Each correct answer presents part of the solution.
+
+**Answer Choices:**
+
+- [ ] Azure resource provisioning
+- [x] choosing a model
+- [x] evaluating a model
+- [ ] inferencing
+- [x] training a model
+
+**Explanation:** The computer vision service eliminates the need for choosing, training, and evaluating a model by providing pre-trained models. To use computer vision, you must create an Azure resource. The use of computer vision involves inferencing.
+
+**Source(s):**
+
+- [Machine learning for computer vision - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-images-computer-vision/2b-computer-vision-models)
+
+---
+
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which part of speech synthesis in natural language processing (NLP) involves breaking text into individual words such that each word can be assigned phonetic sounds?
+
+**Answer Choices:**
+
+- [ ] lemmatization
+- [ ] key phrase extraction
+- [x] tokenization
+- [ ] transcribing
+
+**Explanation:** Tokenization is part of speech synthesis that involves breaking text into individual words such that each word can be assigned phonetic sounds. Transcribing is part of speech recognition, which involves converting speech into a text representation. Key phrase extraction is part of language processing, not speech synthesis. Lemmatization, also known as stemming, is part of language processing, not speech synthesis.
+
+**Source(s):**
+
+- [Recognize and synthesize speech - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/recognize-synthesize-speech/)
+
+---
+
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which two artificial intelligence (AI) workload features are part of the Azure AI Vision service? Each correct answer presents a complete solution.
+
+**Answer Choices:**
+
+- [ ] entity recognition
+- [ ] key phrase extraction
+- [ ] optical character recognition (OCR)
+- [x] sentiment analysis
+- [x] spatial analysis
+
+**Explanation:** OCR and Spatial Analysis are part of the Azure AI Vision service. Sentiment analysis, entity recognition, and key phrase extraction are not part of the computer vision service.
+
+**Source(s):**
+
+- [Microsoft Azure AI Fundamentals: Explore computer vision – Training | Microsoft Learn](https://learn.microsoft.com/training/paths/explore-computer-vision-microsoft-azure/)
+
+---
+
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:** Which principle of responsible artificial intelligence (AI) has the objective of ensuring that AI solutions benefit all parts of society regardless of gender or ethnicity?
+
+**Answer Choices:**
+
+- [ ] accountability
+- [x] inclusiveness
+- [ ] privacy and security
+- [ ] reliability and safety
+
+**Explanation:** The inclusiveness principle is meant to ensure that AI solutions empower and engage everyone, regardless of criteria such as physical ability, gender, sexual orientation, or ethnicity. Privacy and security, reliability and safety, and accountability do not discriminate based on these criteria, but also do not emphasize the significance of bringing benefits to all parts of the society.
+
+**Source(s):**
+
+- [Understand Responsible AI - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/get-started-ai-fundamentals/8-understand-responsible-ai)
+
+---
+
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:**
+
+**Answer Choices:**
 
 - [ ]
 - [ ]
@@ -1399,7 +2540,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:**
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:**
+
+**Answer Choices:**
 
 - [ ]
 - [ ]
@@ -1414,7 +2561,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:**
+**Path:** TBD
+
+**Type:** PA
+
+**Stem:**
+
+**Answer Choices:**
 
 - [ ]
 - [ ]
@@ -1429,202 +2582,13 @@ Select the answer that correctly completes the sentence.
 
 ---
 
-**Question:**
+**Path:** TBD
 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+**Type:** PA
 
-**Explanation:**
+**Stem:**
 
-**Source(s):**
-
-- []()
-
----
-
-**Question:**
-
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
-**Explanation:**
-
-**Source(s):**
-
-- []()
-
----
-
-**Question:**
-
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
-**Explanation:**
-
-**Source(s):**
-
-- []()
-
----
-
-**Question:**
-
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
-**Explanation:**
-
-**Source(s):**
-
-- []()
-
----
-
-**Question:**
-
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
-**Explanation:**
-
-**Source(s):**
-
-- []()
-
----
-
-**Question:**
-
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
-**Explanation:**
-
-**Source(s):**
-
-- []()
-
----
-
-**Question:**
-
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
-**Explanation:**
-
-**Source(s):**
-
-- []()
-
----
-
-**Question:**
-
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
-**Explanation:**
-
-**Source(s):**
-
-- []()
-
----
-
-**Question:**
-
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
-**Explanation:**
-
-**Source(s):**
-
-- []()
-
----
-
-**Question:**
-
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
-**Explanation:**
-
-**Source(s):**
-
-- []()
-
----
-
-**Question:**
-
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
-**Explanation:**
-
-**Source(s):**
-
-- []()
-
----
-
-**Question:**
-
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
-**Explanation:**
-
-**Source(s):**
-
-- []()
-
----
-
-**Question:**
-
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
-**Explanation:**
-
-**Source(s):**
-
-- []()
-
----
-
-**Question:**
+**Answer Choices:**
 
 - [ ]
 - [ ]
