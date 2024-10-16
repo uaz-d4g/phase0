@@ -1244,7 +1244,7 @@ Select the answer that correctly completes the sentence.
 
 - [ ] Add a dataset.
 - [ ] Add training modules.
-- [ ] Create a pipeline.
+- [x] Create a pipeline.
 - [ ] Deploy a service.
 
 **Explanation:** Before you can start training a machine learning model, you must first create a pipeline in the Machine Learning designer. This is followed by adding a dataset, adding training modules, and eventually deploying a service.
@@ -1258,7 +1258,7 @@ Select the answer that correctly completes the sentence.
 **Question:** You train a regression model by using automated machine learning (automated ML) in the Azure Machine Learning studio. You review the best model summary. You need to publish the model for others to use from the internet. What should you do next?
 
 - [ ] Create a compute cluster.
-- [ ] Deploy the model to an endpoint.
+- [x] Deploy the model to an endpoint.
 - [ ] Split the data into training and validation datasets.
 - [ ] Test the deployed service.
 
@@ -1275,7 +1275,7 @@ Select the answer that correctly completes the sentence.
 
 - [ ] frequency analysis
 - [ ] N-grams
-- [ ] stemming
+- [x] stemming
 - [ ] vectorization
 
 **Explanation:** Stemming normalizes words before counting them. Frequency analysis counts how often a word appears in a text. N-grams extend frequency analysis to include multi-term phrases. Vectorization captures semantic relationships between words by assigning them to locations in n-dimensional space.
@@ -1283,6 +1283,314 @@ Select the answer that correctly completes the sentence.
 **Source(s):**
 
 - [Understand Text Analytics - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-text-with-text-analytics-service/2-understand-text-analytics)
+
+---
+
+**Question:** You want to create a model to predict sales of ice cream based on historic data that includes daily ice cream sales totals and weather measurements. Which Azure service should you use?
+
+- [x] Azure Machine Learning
+- [ ] Azure AI Bot Service
+- [ ] Azure AI Language
+
+**Explanation:** Azure Machine Learning enables you to train a predictive model from the existing data. The Azure AI Bot Service provides a platform for conversational AI. The Language Service is used for understanding and analyzing text, and creating intelligent applications.
+
+**Source(s):**
+
+- [Fundamental AI Concepts - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/)
+
+---
+
+**Question:** You work for a wildlife sanctuary and are considering using AI to identify bird species from images. Which AI service should you use to prototype your idea?
+
+- [x] Azure AI Vision
+- [ ] Azure AI Search
+- [ ] Azure OpenAI
+
+**Explanation:** Azure AI Vision allows you to add images to the existing model to improve the image identifier model. This is a good choice for identifying the small differences between bird species. Azure AI Search includes data extraction and indexing capabilities for knowledge mining. Azure OpenAI helps organizations generate content and insights. Another Azure AI service should be used to identify bird species from images.
+
+**Source(s):**
+
+- [Fundamental AI Concepts - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/)
+
+---
+
+**Question:** A predictive app provides audio output for visually impaired users. Which principle of Responsible AI is reflected here?
+
+- [ ] Transparency
+- [x] Inclusiveness
+- [ ] Fairness
+
+**Explanation:** Inclusiveness is about how AI should bring benefits to all parts of society, regardless of physical ability, gender, sexual orientation, ethnicity, or other factors. Transparency is about fully communicating the purpose of the system, how it works, and what limitations might be expected. Fairness is about developing models and applications without incorporating any bias based on gender, ethnicity, or other factors that might result in an unfair advantage or disadvantage to specific groups.
+
+**Source(s):**
+
+- [Fundamental AI Concepts - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/)
+
+---
+
+**Question:** You want to create a model to predict the cost of heating an office building based on its size in square feet and the number of employees working there. What kind of machine learning problem is this?
+
+- [x] Regression
+- [ ] Classification
+- [ ] Clustering
+
+**Explanation:** Regression models predict numeric values. Classification models predict the class to which an observed case belongs. Clustering models group similar items together.
+
+**Source(s):**
+
+- [Fundamentals of Machine Learning - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/)
+
+---
+
+**Question:** You need to evaluate a classification model. Which metric can you use?
+
+- [ ] Mean squared error (MSE)
+- [x] Precision
+- [ ] Silhouette
+
+**Explanation:** Precision is a useful metric for evaluating classification models. MSE is used to evaluate regression models. Silhouette is used to evaluate clustering models.
+
+**Source(s):**
+
+- [Fundamentals of Machine Learning - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/)
+
+---
+
+**Question:** In deep learning, what is the purpose of a loss function?
+
+- [ ] To remove data for which no known label values are provided
+- [x] To evaluate the aggregate difference between predicted and actual label values
+- [ ] To calculate the cost of training a neural network rather than a statistical model
+
+**Explanation:** A loss function determines the overall variance, or loss, between predicted and actual label values. A loss function does not remove data. A loss function does not calculate cost.
+
+**Source(s):**
+
+- [Fundamentals of Machine Learning - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/)
+
+---
+
+**Question:** What does automated machine learning in Azure Machine Learning enable you to do?
+
+- [ ] Automatically deploy new versions of a model as they're trained
+- [ ] Automatically provision Azure Machine Learning workspaces for new data scientists in an organization
+- [x] Automatically run multiple training jobs using different algorithms and parameters to find the best model
+
+**Explanation:** Automated machine learning runs multiple training jobs, varying algorithms and parameters, to find the best model for your data. Automated machine learning does not automatically deploy models. Automated machine learning does not automate workspace provisioning.
+
+**Source(s):**
+
+- [Fundamentals of Machine Learning - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/)
+
+---
+
+**Question:**
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+**Explanation:**
+
+**Source(s):**
+
+- []()
+
+---
+
+**Question:**
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+**Explanation:**
+
+**Source(s):**
+
+- []()
+
+---
+
+**Question:**
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+**Explanation:**
+
+**Source(s):**
+
+- []()
+
+---
+
+**Question:**
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+**Explanation:**
+
+**Source(s):**
+
+- []()
+
+---
+
+**Question:**
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+**Explanation:**
+
+**Source(s):**
+
+- []()
+
+---
+
+**Question:**
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+**Explanation:**
+
+**Source(s):**
+
+- []()
+
+---
+
+**Question:**
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+**Explanation:**
+
+**Source(s):**
+
+- []()
+
+---
+
+**Question:**
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+**Explanation:**
+
+**Source(s):**
+
+- []()
+
+---
+
+**Question:**
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+**Explanation:**
+
+**Source(s):**
+
+- []()
+
+---
+
+**Question:**
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+**Explanation:**
+
+**Source(s):**
+
+- []()
+
+---
+
+**Question:**
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+**Explanation:**
+
+**Source(s):**
+
+- []()
+
+---
+
+**Question:**
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+**Explanation:**
+
+**Source(s):**
+
+- []()
+
+---
+
+**Question:**
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+**Explanation:**
+
+**Source(s):**
+
+- []()
+
+---
+
+**Question:**
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+**Explanation:**
+
+**Source(s):**
+
+- []()
 
 ---
 
